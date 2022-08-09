@@ -1,0 +1,390 @@
+LfNr;Datum;Zeit;WoTag;Straﬂenklasse;Straﬂennummer;Gemeinde;Strasse;Tˆdlich verletzt;Schwer verletzt;Leicht verletzt;Anzahl Beteiligte;VU-Art;Charakteristik1 VU-Stelle;Charakteristik2 VU-Stelle;Besonderheit1 VU-Stelle;Besonderheit2 VU-Stelle;Besonderheit3 VU-Stelle;LZA;VU-Kategorie;VU-Typ;Unter-Typ;VU-Ursache Verursacher;2.VU-Ursache Verursacher;VU-Ursache 2. Beteiligter;2.VU-Ursache 2. Beteiligter;Allgmeine Ursache Verursacher;Verkehrsbeteiligung Verursacher;Verkehrsbeteiligung 2. Beteiligter;Jahr;Monat;Tag;Lichtverh‰ltnisse;Straﬂenzustand;Verursacher;Bet_02;Unfall-Typ;Fahrtrichtung;Koord.x;Koord.y
+1; 04.01.2021; 06:05; Mo;3;828; Oldenburg (Oldb); Edewechter Landstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;21;71;2021;1;4; du; na; PKW; RF; EK; aufsteigend;8,134932;53,126958
+2; 04.01.2021; 11:55; Mo;5;; Oldenburg (Oldb); Dwaschweg;0;0;1;2;5;2;;;;;;3;3;342;28;;;;;21;72;2021;1;4; he; na; PKW; RF; EK; aufsteigend;8,242545;53,08837
+3; 04.01.2021; 12:00; Mo;5;; Oldenburg (Oldb); Brookweg;0;0;1;2;5;2;;9;;;;3;3;342;28;;10;;;21;71;2021;1;4; he; na; PKW; RF; EK; aufsteigend;8,192593;53,171518
+4; 04.01.2021; 16:30; Mo;5;; Oldenburg (Oldb); Bardieksweg;0;0;0;2;1;3;;;;;;5;5;501;49;;;;;72;21;2021;1;4; d‰; na; RF; PKW; RV;;8,20306;53,186051
+5; 05.01.2021; 07:50; Di;5;; Oldenburg (Oldb); August-Wilhelm-K¸hnholz-Straﬂe;0;0;1;2;3;;;;;;;3;5;581;45;;;;;21;71;2021;1;5; du; na; PKW; RF; RV; aufsteigend;8,25336;53,106207
+6; 05.01.2021; 08:30; Di;5;; Oldenburg (Oldb); Katharinenstraﬂe;0;0;1;2;4;1;;;;;8;3;2;224;35;;;;;21;71;2021;1;5; he; na; PKW; RF; AB; absteigend;8,208823;53,143266
+7; 06.01.2021; 11:30; Mi;5;; Oldenburg (Oldb); Theodor-Pekol-Straﬂe;0;0;1;2;5;2;;0;9;;8;3;3;341;28;;;;;21;71;2021;1;6; he; na; PKW; RF; EK; absteigend;8,197065;53,169538
+8; 06.01.2021; 16:40; Mi;3;866; Oldenburg (Oldb); Stedinger Straﬂe;0;0;1;2;5;2;;0;9;;;3;2;243;34;;;;;21;71;2021;1;6; du; na; PKW; RF; AB; absteigend;8,230461;53,136189
+9; 07.01.2021; 07:40; Do;3;865; Oldenburg (Oldb); Am Stadtmuseum;0;0;0;2;5;1;;8;;;8;5;3;301;31;;31;;;71;21;2021;1;7; du; na; RF; PKW; EK; aufsteigend;8,214334;53,143411
+10; 09.01.2021; 13:00; Sa;5;; Oldenburg (Oldb); Uhlhornsweg;0;0;1;2;6;;;9;;;;3;6;671;64;;42;;;81;71;2021;1;9; he; tr; FG; RF; LV; absteigend;8,178127;53,144645
+11; 11.01.2021; 06:35; Mo;5;; Oldenburg (Oldb); Peterstraﬂe;0;0;1;2;5;1;;;;;8;3;2;211;35;;;;;21;71;2021;1;11; du; na; PKW; RF; AB; absteigend;8,207387;53,141683
+12; 11.01.2021; 14:30; Mo;5;; Oldenburg (Oldb); Sachsenstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;21;72;2021;1;11; he; na; PKW; RF; EK; absteigend;8,208788;53,159997
+13; 11.01.2021; 15:05; Mo;5;; Oldenburg (Oldb); Stiekelkamp;0;0;1;2;5;2;;;;;;3;3;302;28;;;;;21;72;2021;1;11; he; na; PKW; RF; EK;;8,206085;53,183092
+14; 11.01.2021; 17:40; Mo;5;; Oldenburg (Oldb); Wilhelmshavener Heerstraﬂe;0;0;1;2;5;2;;0;9;;8;3;2;244;34;;;;;21;71;2021;1;11; du; na; PKW; RF; AB; absteigend;8,230091;53,185051
+15; 12.01.2021; 07:50; Di;2;401; Oldenburg (Oldb); Nordmoslesfehner Straﬂe;0;0;0;2;5;1;;0;9;;;5;3;342;28;;;;;21;72;2021;1;12; du; na; PKW; RF; EK;;8,129587;53,108063
+16; 13.01.2021; 08:20; Mi;5;; Oldenburg (Oldb); Friedhofsweg;0;0;1;1;0;;;9;;;;3;1;102;49;;;;72;71;;2021;1;13; he; wgl; RF; -; F; aufsteigend;8,198824;53,153629
+17; 13.01.2021; 08:45; Mi;5;; Oldenburg (Oldb); Stau;0;0;0;2;2;;;;;;;5;7;711;36;;;;;46;71;2021;1;13; he; na; LKW; RF; SO;;8,232867;53,140682
+18; 13.01.2021; 09:47; Mi;5;; Oldenburg (Oldb); Bremer Heerstraﬂe;0;1;0;1;0;;;6;;;;2;1;141;10;;;;72;71;;2021;1;13; he; wgl; RF; -; F; aufsteigend;8,250279;53,123761
+19; 13.01.2021; 12:50; Mi;5;; Oldenburg (Oldb); Osterkampsweg;0;0;1;2;5;1;;;;;;3;3;306;11;;;;;21;71;2021;1;13; he; tr; PKW; RF; EK; absteigend;8,154311;53,129526
+20; 13.01.2021; 17:45; Mi;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;1;;0;9;;;3;3;303;28;;;;;21;71;2021;1;13; du; na; PKW; RF; EK;;8,225544;53,16391
+21; 14.01.2021; 09:15; Do;5;; Oldenburg (Oldb); Chaukenstraﬂe;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;1;14; he; na; RF; PKW; RV; absteigend;8,216897;53,159717
+22; 14.01.2021; 15:35; Do;5;; Oldenburg (Oldb); Fuﬂ- und Radweg Rtg Stau;0;0;1;2;4;2;;;;;;3;6;681;49;;;;;71;71;2021;1;14; he; na; RF; RF; LV; absteigend;8,237128;53,138082
+23; 19.01.2021; 07:04; Di;5;; Oldenburg (Oldb); Stubbenweg;0;0;1;2;5;2;;;;;;3;3;302;28;;;;;21;71;2021;1;19; du; na; PKW; RF; EK; aufsteigend;8,229017;53,180246
+24; 19.01.2021; 07:13; Di;3;865; Oldenburg (Oldb); Elsflether Straﬂe;0;0;1;2;5;3;;;;;;3;3;342;37;;;;;21;71;2021;1;19; du; na; PKW; RF; EK;;8,262861;53,169456
+25; 19.01.2021; 18:00; Di;5;; Oldenburg (Oldb); Stau;0;0;1;2;5;2;;;;;;3;2;232;34;;;;;21;71;2021;1;19; du; tr; PKW; RF; AB; absteigend;8,227616;53,140647
+26; 19.01.2021; 18:25; Di;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;1;;;;;8;3;2;243;34;;;;;21;71;2021;1;19; du; na; PKW; RF; AB; absteigend;8,20945;53,156298
+27; 20.01.2021; 07:35; Mi;5;; Oldenburg (Oldb); Hochheider Weg;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;1;20; du; na; RF; PKW; RV;;8,239082;53,166111
+28; 20.01.2021; 14:10; Mi;5;; Oldenburg (Oldb); Stau;0;1;0;2;5;2;;;;;8;2;3;301;31;;;;;72;21;2021;1;20; he; tr; RF; PKW; EK; absteigend;8,218968;53,140285
+29; 22.01.2021; 09:50; Fr;5;; Oldenburg (Oldb); Feldstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;342;28;;;;;21;71;2021;1;22; he; tr; PKW; RF; EK; absteigend;8,201161;53,165611
+30; 23.01.2021; 21:29; Sa;5;; Oldenburg (Oldb); An den Voﬂbergen;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;1;23; d‰; tr; RF; PKW; RV;;8,215485;53,114078
+31; 24.01.2021; 12:40; So;5;; Oldenburg (Oldb); Heidjerweg;0;0;1;2;1;;;8;;;;3;5;501;49;;;;;71;21;2021;1;24; he; tr; RF; PKW; RV; aufsteigend;8,228072;53,091482
+32; 25.01.2021; 06:50; Mo;5;; Oldenburg (Oldb); Staulinie;0;0;0;2;5;3;;0;9;;;5;2;243;34;;;;;21;71;2021;1;25; du; na; PKW; RF; AB;;8,215191;53,14183
+33; 25.01.2021; 08:10; Mo;5;; Oldenburg (Oldb); Hogenkamp;0;0;0;2;5;2;;0;9;;;5;3;302;28;;;;;21;71;2021;1;25; d‰; na; PKW; RF; EK;;8,191503;53,119339
+34; 25.01.2021; 08:44; Mo;5;; Oldenburg (Oldb); Langenweg;0;0;1;2;5;2;;;;;;3;3;371;37;;49;;;71;21;2021;1;25; he; na; RF; PKW; EK;;8,218163;53,185057
+35; 26.01.2021; 06:45; Di;5;; Oldenburg (Oldb); Rebenstraﬂe;0;0;1;2;5;2;;;;;;3;3;302;28;;;;;21;71;2021;1;26; du; na; PKW; RF; EK;;8,214005;53,155695
+36; 27.01.2021; 13:01; Mi;5;; Oldenburg (Oldb); Maastrichter Straﬂe;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;21;71;2021;1;27; he; na; PKW; RF; EK; absteigend;8,225672;53,145965
+37; 29.01.2021; 07:30; Fr;5;; Oldenburg (Oldb); Butjadinger Straﬂe;0;0;1;2;5;2;;9;;;;3;2;244;34;;;;;21;71;2021;1;29; du; tr; PKW; RF; AB; absteigend;8,250378;53,166354
+38; 29.01.2021; 13:28; Fr;5;; Oldenburg (Oldb); Kreyenstraﬂe;0;0;1;2;5;2;;9;;;;3;3;341;28;;;;72;21;71;2021;1;29; he; wgl; PKW; RF; EK; aufsteigend;8,214265;53,167101
+39; 29.01.2021; 14:05; Fr;5;; Oldenburg (Oldb); Bahnhofsallee;0;0;0;2;5;2;;0;9;;;5;3;342;28;;;;;21;72;2021;1;29; he; wgl; PKW; RF; EK;;8,237281;53,101833
+40; 01.02.2021; 07:40; Mo;5;; Oldenburg (Oldb); Bahndamm;0;0;1;1;0;;;0;9;;;3;1;141;49;;;;72;71;;2021;2;1; d‰; wgl; RF; -; F;;8,240822;53,106505
+41; 01.02.2021; 14:40; Mo;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;3;;0;9;;;3;3;342;37;;;;72;21;71;2021;2;1; he; na; PKW; RF; EK; aufsteigend;8,198045;53,168618
+42; 02.02.2021; 06:00; Di;5;; Oldenburg (Oldb); Unterm Berg;0;0;1;2;5;1;;0;9;;;3;3;302;28;;;;;21;71;2021;2;2; du; na; PKW; RF; EK;;8,233344;53,149942
+43; 04.02.2021; 08:25; Do;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;1;;4;;;8;3;3;343;31;;;;;71;21;2021;2;4; he; na; RF; PKW; EK;;8,226844;53,166128
+44; 04.02.2021; 09:30; Do;5;; Oldenburg (Oldb); Banater Weg;0;0;0;2;5;1;;8;;;;5;3;342;28;;;;;21;71;2021;2;4; he; na; PKW; RF; EK;;8,197064;53,173087
+45; 09.02.2021; 11:50; Di;5;; Oldenburg (Oldb); Theaterwall;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;72;21;71;2021;2;9; he; wgl; PKW; RF; AB; absteigend;8,212227;53,138147
+46; 12.02.2021; 06:10; Fr;5;; Oldenburg (Oldb); Sch¸tzenhofstraﬂe;0;0;1;2;5;2;;;;;9;3;2;261;11;35;;;;21;71;2021;2;12; du; tr; PKW; RF; AB; aufsteigend;8,226165;53,129664
+47; 13.02.2021; 15:17; Sa;5;; Oldenburg (Oldb); Ekernstraﬂe;0;0;0;2;2;2;;;;;;5;6;601;49;;;;82;21;71;2021;2;13; he; tr; PKW; RF; LV;;8,231312;53,18283
+48; 16.02.2021; 08:55; Di;5;; Oldenburg (Oldb); Zillestraﬂe;0;0;0;2;1;3;;;;;;5;5;593;49;;;;72;71;21;2021;2;16; he; wgl; RF; PKW; RV;;8,219531;53,171419
+49; 16.02.2021; 09:45; Di;5;; Oldenburg (Oldb); Elisabethstraﬂe;0;0;1;1;0;;;;;;;3;1;199;49;;;;72;71;;2021;2;16; he; wgl; RF; -; F; absteigend;8,211968;53,133193
+50; 18.02.2021; 11:01; Do;5;; Oldenburg (Oldb); Bremer Straﬂe;0;0;1;2;5;3;;0;9;;;3;3;341;28;;;;;21;71;2021;2;18; he; na; PKW; RF; EK; absteigend;8,224743;53,130379
+51; 20.02.2021; 11:15; Sa;3;865; Oldenburg (Oldb); Heiligengeistwall;0;0;0;1;0;1;;0;9;;;5;7;775;55;;;;;71;;2021;2;20; he; tr; RF; -; SO; absteigend;8,209034;53,141722
+52; 23.02.2021; 11:30; Di;3;865; Oldenburg (Oldb); Elsflether Straﬂe;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;21;71;2021;2;23; he; tr; PKW; RF; EK;;8,251606;53,164157
+53; 24.02.2021; 15:20; Mi;5;; Oldenburg (Oldb); Klingenbergstraﬂe;0;0;1;3;5;;;;;;;3;3;371;37;;;;;71;21;2021;2;24; he; tr; RF; PKW; EK; absteigend;8,224272;53,108822
+54; 25.02.2021; 10:30; Do;5;; Oldenburg (Oldb); Kreyenstraﬂe;0;0;1;2;5;1;;8;;;8;3;2;211;35;;;;;21;71;2021;2;25; he; tr; PKW; RF; AB;;8,226749;53,166182
+55; 25.02.2021; 15:10; Do;5;; Oldenburg (Oldb); Eisvogelring;0;0;1;2;6;;;7;;;;3;4;401;13;;;;;71;81;2021;2;25; he; tr; RF; FG; ‹S;;8,241818;53,122182
+56; 28.02.2021; 19:10; So;5;; Oldenburg (Oldb); Kaiserstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;349;37;;;;;21;72;2021;2;28; du; tr; PKW; RF; EK; aufsteigend;8,221327;53,140972
+57; 01.03.2021; 13:30; Mo;5;; Oldenburg (Oldb); Eﬂkamp;0;0;1;2;5;2;;;;;8;3;3;341;31;;;;;21;71;2021;3;1; he; tr; PKW; RF; EK; aufsteigend;8,21175;53,169901
+58; 01.03.2021; 14:30; Mo;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;;21;72;2021;3;1; he; tr; PKW; RF; AB; absteigend;8,210274;53,154113
+59; 03.03.2021; 12:10; Mi;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;;40;71;2021;3;3; he; tr; LKW; RF; AB; absteigend;8,230007;53,14961
+60; 04.03.2021; 07:25; Do;5;; Oldenburg (Oldb); Pestalozzistraﬂe;0;0;1;2;5;3;;9;;;;3;3;341;37;;;;;21;71;2021;3;4; d‰; tr; PKW; RF; EK;;8,18427;53,13069
+61; 05.03.2021; 09:30; Fr;5;; Oldenburg (Oldb); Marschweg;0;0;0;2;1;;;;;;;5;7;703;49;;;;;71;21;2021;3;5; he; tr; RF; PKW; SO;;8,205468;53,128224
+62; 05.03.2021; 14:30; Fr;5;; Oldenburg (Oldb); Niedersachsendamm;0;1;0;2;0;;;;;;;2;6;681;49;;;;;71;71;2021;3;5; he; tr; RF; RF; LV;;8,214415;53,126062
+63; 06.03.2021; 09:45; Sa;5;; Oldenburg (Oldb); Watertucht;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;3;6; he; tr; RF; PKW; RV; absteigend;8,156697;53,134274
+64; 08.03.2021; 07:25; Mo;5;; Oldenburg (Oldb); Marschweg;0;0;1;2;5;3;;0;9;;;3;2;224;35;;;;;21;71;2021;3;8; he; tr; PKW; RF; AB; absteigend;8,20488;53,133979
+65; 08.03.2021; 07:28; Mo;5;; Oldenburg (Oldb); Friedhofsweg;0;0;1;1;0;2;;6;;;;3;1;109;49;;;;72;71;;2021;3;8; he; wgl; RF; -; F;;8,199728;53,155972
+66; 10.03.2021; 13:20; Mi;5;; Oldenburg (Oldb); Sonnenstraﬂe;0;0;2;2;6;;;;;;;3;4;421;64;;;;;81;71;2021;3;10; he; tr; FG; RF; ‹S;;8,220435;53,149971
+67; 15.03.2021; 16:20; Mo;5;; Oldenburg (Oldb); Zaunkˆnigstraﬂe;0;0;1;2;5;2;;;;;;3;3;342;28;;;;;21;71;2021;3;15; he; tr; PKW; RF; EK;;8,239717;53,121002
+68; 15.03.2021; 20:20; Mo;5;; Oldenburg (Oldb); S¸dring;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;3;15; du; tr; RF; PKW; RV;;8,217156;53,201446
+69; 16.03.2021; 11:30; Di;3;866; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;1;2;5;3;;0;9;;;3;3;341;37;;;;;40;71;2021;3;16; he; tr; LKW; RF; EK;;8,219991;53,125353
+70; 17.03.2021; 08:10; Mi;5;; Oldenburg (Oldb); Osterkampsweg;0;1;0;2;5;1;;;;;8;2;2;243;34;;;;;40;71;2021;3;17; he; tr; LKW; RF; AB;;8,182633;53,13663
+71; 18.03.2021; 09:55; Do;5;; Oldenburg (Oldb); Theaterwall;0;0;1;2;5;1;;0;9;;8;3;2;243;34;;;;;40;71;2021;3;18; he; tr; LKW; RF; AB;;8,213387;53,13766
+72; 21.03.2021; 10:43; So;5;; Oldenburg (Oldb); Weiﬂenmoorstraﬂe;0;0;1;1;7;;;;;;;3;7;799;49;;;;;71;;2021;3;21; he; tr; RF; -; SO;;8,204918;53,18386
+73; 22.03.2021; 06:15; Mo;5;; Oldenburg (Oldb); Marschweg;0;0;1;1;0;2;;;;;;3;1;111;49;;;;;71;;2021;3;22; he; sch; RF; -; F; absteigend;8,204742;53,12621
+74; 22.03.2021; 10:20; Mo;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;2;2;6;;;0;5;9;;3;4;401;64;;;;;81;71;2021;3;22; he; na; FG; RF; ‹S;;8,220347;53,156066
+75; 23.03.2021; 16:00; Di;5;; Oldenburg (Oldb); Am Stadtmuseum;0;0;1;2;5;2;;0;9;;;3;2;243;34;;;;;21;71;2021;3;23; he; tr; PKW; RF; AB; absteigend;8,214466;53,14531
+76; 24.03.2021; 09:16; Mi;5;; Oldenburg (Oldb); Bahnhofsallee;0;0;1;2;5;3;;9;;;;3;2;244;34;;;;;21;71;2021;3;24; he; tr; PKW; RF; AB; aufsteigend;8,23629;53,124147
+77; 24.03.2021; 09:50; Mi;5;; Oldenburg (Oldb); Buschhagenweg;0;0;1;2;5;3;;;;;;3;3;341;37;;;;;21;71;2021;3;24; he; tr; PKW; RF; EK;;8,215127;53,120496
+78; 24.03.2021; 16:30; Mi;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;3;;0;9;;;3;3;342;37;;10;;;21;71;2021;3;24; he; tr; PKW; RF; EK;;8,195756;53,170875
+79; 24.03.2021; 18:20; Mi;5;; Oldenburg (Oldb); Sodenstich;0;0;1;2;5;2;;;;;;3;3;321;27;;;;;21;71;2021;3;24; he; tr; PKW; RF; EK;;8,19631;53,125669
+80; 25.03.2021; 09:45; Do;5;; Oldenburg (Oldb); Ehnernstraﬂe;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;3;25; he; tr; RF; PKW; RV;;8,216578;53,153627
+81; 25.03.2021; 14:31; Do;5;; Oldenburg (Oldb); Sch¸tzenhofstraﬂe;0;1;0;2;5;1;;8;;;;2;2;203;1;35;;;;71;21;2021;3;25; he; tr; RF; PKW; AB; aufsteigend;8,224661;53,127828
+82; 26.03.2021; 05:43; Fr;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;2;;0;9;;9;3;2;223;35;;10;50;;21;71;2021;3;26; d‰; tr; PKW; RF; AB; absteigend;8,205549;53,161944
+83; 30.03.2021; 15:44; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;1;0;2;5;1;;0;3;8;8;2;2;243;34;;;;;21;71;2021;3;30; he; tr; PKW; RF; AB; aufsteigend;8,225139;53,163388
+84; 30.03.2021; 18:17; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;1;0;2;5;;;;;;;2;3;371;37;;;;;71;21;2021;3;30; he; tr; RF; PKW; EK; aufsteigend;8,22074;53,156479
+85; 31.03.2021; 16:50; Mi;3;865; Oldenburg (Oldb); Heiligengeistwall;0;0;2;2;6;1;;0;3;9;8;3;4;451;31;;;;;71;81;2021;3;31; he; tr; RF; FG; ‹S; absteigend;8,213127;53,143211
+86; 01.04.2021; 15:45; Do;5;; Oldenburg (Oldb); Am Schmeel;0;0;1;2;2;3;;;;;;3;5;579;37;;;;;21;71;2021;4;1; he; tr; PKW; RF; RV;;8,243042;53,094178
+87; 02.04.2021; 14:00; Fr;3;865; Oldenburg (Oldb); Heiligengeiststraﬂe;0;0;2;2;5;7;;9;;;8;3;2;211;35;;;;;71;71;2021;4;2; he; tr; RF; RF; AB; absteigend;8,213993;53,145896
+88; 07.04.2021; 21:45; Mi;5;; Oldenburg (Oldb); Wehdestraﬂe;0;0;0;2;8;2;6;;;;;4;6;683;11;50;49;;;71;21;2021;4;7; du; na; RF; PKW; LV;;8,243395;53,14208
+89; 08.04.2021; 13:40; Do;5;; Oldenburg (Oldb); Ammerl‰nder Heerstraﬂe;0;0;1;1;0;1;;8;;;8;3;7;799;49;;;;;72;;2021;4;8; he; tr; RF; -; SO;;8,17114;53,155309
+90; 08.04.2021; 18:10; Do;5;; Oldenburg (Oldb); Scharnhorststraﬂe;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;4;8; he; tr; RF; PKW; RV;;8,187847;53,139279
+91; 09.04.2021; 18:00; Fr;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;2;;0;9;;8;3;2;202;35;;10;;;21;72;2021;4;9; he; tr; PKW; RF; AB; aufsteigend;8,204955;53,162221
+92; 10.04.2021; 12:50; Sa;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;3;;0;8;;;3;2;243;34;;;;;21;72;2021;4;10; he; tr; PKW; RF; AB; aufsteigend;8,194106;53,172487
+93; 13.04.2021; 07:50; Di;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;1;2;5;1;;0;9;;8;3;2;242;34;;;;;21;71;2021;4;13; he; na; PKW; RF; AB;;8,214559;53,146675
+94; 14.04.2021; 10:55; Mi;3;828; Oldenburg (Oldb); Hauptstraﬂe;0;0;1;1;0;;;;;;;3;7;799;49;;;;;72;;2021;4;14; he; tr; RF; -; SO; absteigend;8,191359;53,133418
+95; 15.04.2021; 14:30; Do;5;; Oldenburg (Oldb); Hackenweg;0;0;1;2;4;6;;;;;;3;6;683;11;;;;;71;71;2021;4;15; he; tr; RF; RF; LV; aufsteigend;8,210354;53,164632
+96; 16.04.2021; 16:30; Fr;5;; Oldenburg (Oldb); Am Wemkenhof;0;0;1;2;6;;;7;;;;3;7;799;42;;;;;71;81;2021;4;16; he; tr; RF; FG; SO;;8,227089;53,174047
+97; 17.04.2021; 04:32; Sa;3;865; Oldenburg (Oldb); Elsflether Straﬂe;0;0;3;2;9;6;;0;9;;;3;6;652;11;;;;;71;21;2021;4;17; du; tr; RF; PKW; LV; absteigend;8,257978;53,169661
+98; 17.04.2021; 09:30; Sa;5;; Oldenburg (Oldb); Billungerweg;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;4;17; he; tr; RF; PKW; RV;;8,171343;53,131491
+99; 19.04.2021; 07:55; Mo;5;; Oldenburg (Oldb); Wilhelmshavener Heerstraﬂe;0;0;1;2;5;2;;;;;8;3;2;212;49;;35;;;71;21;2021;4;19; he; tr; RF; PKW; AB;;8,229791;53,175441
+100; 19.04.2021; 15:45; Mo;5;; Oldenburg (Oldb); Sprungweg;0;0;1;2;5;2;;8;;;;3;3;342;28;;;;;21;71;2021;4;19; he; tr; PKW; RF; EK;;8,242572;53,088382
+101; 19.04.2021; 17:50; Mo;5;; Oldenburg (Oldb); Bahnhofsallee;0;0;1;2;5;2;;9;;;;3;2;223;35;;;;;21;71;2021;4;19; he; tr; PKW; RF; AB; absteigend;8,236424;53,126229
+102; 20.04.2021; 16:00; Di;5;; Oldenburg (Oldb); Kranbergstraﬂe;0;0;0;2;5;1;;;;;;5;7;799;49;;;;;71;21;2021;4;20; he; tr; RF; PKW; SO;;8,235222;53,154871
+103; 22.04.2021; 14:10; Do;5;; Oldenburg (Oldb); Heiligengeiststraﬂe;0;0;2;2;5;;;;;;;3;3;344;37;;;;;71;71;2021;4;22; he; tr; RF; RF; EK; absteigend;8,213583;53,14523
+104; 22.04.2021; 17:00; Do;5;; Oldenburg (Oldb); Quellenweg;0;0;1;2;5;2;;;;;;3;3;301;28;;;;;71;71;2021;4;22; he; tr; RF; RF; EK; aufsteigend;8,186927;53,142281
+105; 24.04.2021; 09:45; Sa;5;; Oldenburg (Oldb); Wunderburgstraﬂe;0;0;0;2;1;;;;;;;5;5;502;49;;;;;71;21;2021;4;24; he; tr; RF; PKW; RV; absteigend;8,234835;53,125148
+106; 25.04.2021; 17:38; So;5;; Oldenburg (Oldb); Gartenstraﬂe;0;0;1;2;5;2;;;;;;3;3;371;37;;;;;71;21;2021;4;25; he; tr; RF; PKW; EK;;8,206591;53,134527
+107; 26.04.2021; 10:00; Mo;5;; Oldenburg (Oldb); Scheideweg;0;0;0;2;5;3;;9;;;;5;2;224;35;;;;;21;71;2021;4;26; he; tr; PKW; RF; AB;;8,213262;53,168231
+108; 28.04.2021; 10:20; Mi;5;; Oldenburg (Oldb); Theodor-Heuss-Straﬂe;0;0;1;2;5;3;;;;;;3;3;399;37;;;;;21;72;2021;4;28; he; tr; PKW; RF; EK; aufsteigend;8,171598;53,141023
+109; 28.04.2021; 12:30; Mi;5;; Oldenburg (Oldb); Pferdemarkt;0;0;0;2;4;;;0;9;;;5;6;681;10;;;;;71;71;2021;4;28; he; tr; RF; RF; LV;;8,214865;53,14646
+110; 03.05.2021; 11:10; Mo;5;; Oldenburg (Oldb); Klingenbergstraﬂe;0;0;0;2;5;3;;;;;;5;3;301;49;;;;;21;71;2021;5;3; he; na; PKW; RF; EK;;8,213711;53,109019
+111; 03.05.2021; 16:00; Mo;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;0;2;5;2;;0;9;;;5;2;223;10;;;;;71;21;2021;5;3; he; na; RF; PKW; AB;;8,208719;53,160004
+112; 06.05.2021; 14:00; Do;5;; Oldenburg (Oldb); Schloﬂplatz;0;0;0;2;1;;;;;;;5;5;521;49;;;;;71;21;2021;5;6; he; tr; RF; PKW; RV;;8,21478;53,137853
+113; 06.05.2021; 14:45; Do;5;; Oldenburg (Oldb); Lehmkuhlenstraﬂe;0;0;1;2;5;1;;;;;;3;3;321;27;;;;;71;21;2021;5;6; he; tr; RF; PKW; EK;;8,220727;53,153378
+114; 06.05.2021; 17:58; Do;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;1;0;0;2;5;1;;0;9;;8;1;3;321;31;;;;;71;33;2021;5;6; he; tr; RF; BUS; EK;;8,219286;53,124065
+115; 06.05.2021; 18:20; Do;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;0;2;5;3;;0;9;;;5;3;342;49;;10;;;21;71;2021;5;6; he; tr; PKW; RF; EK;;8,22612;53,165406
+116; 09.05.2021; 15:01; So;3;868; Oldenburg (Oldb); Bremer Heerstraﬂe;0;0;1;2;5;2;;9;;;9;3;3;342;28;;;;;21;72;2021;5;9; he; tr; PKW; RF; EK; aufsteigend;8,268533;53,111511
+117; 10.05.2021; 23:30; Mo;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;1;0;;;9;;;;3;7;799;1;49;;;;71;;2021;5;10; du; tr; RF; -; SO; aufsteigend;8,221548;53,15827
+118; 11.05.2021; 13:10; Di;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;3;;0;9;;;3;3;341;37;;;;;21;71;2021;5;11; he; na; PKW; RF; EK;;8,209997;53,155229
+119; 11.05.2021; 15:41; Di;5;; Oldenburg (Oldb); Weiﬂenmoorstraﬂe;0;0;1;2;5;2;;9;;;;3;3;341;28;;;;;21;71;2021;5;11; he; na; PKW; RF; EK; absteigend;8,205829;53,181084
+120; 13.05.2021; 01:31; Do;4;138; Oldenburg (Oldb); Bloherfelder Straﬂe;0;0;1;2;2;1;;;;;9;3;7;799;1;49;;;;72;71;2021;5;13; du; tr; RF; RF; SO;;8,191749;53,141883
+121; 13.05.2021; 12:35; Do;5;; Oldenburg (Oldb); B¸rgerstraﬂe;0;0;1;2;4;2;;7;;;;3;2;262;13;;34;;;72;21;2021;5;13; he; tr; RF; PKW; AB; absteigend;8,226356;53,149205
+122; 13.05.2021; 18:15; Do;5;; Oldenburg (Oldb); Gartenstraﬂe;0;1;0;3;6;3;;;;;;2;4;421;42;;42;;;71;71;2021;5;13; he; tr; RF; RF; ‹S; absteigend;8,209988;53,13504
+123; 13.05.2021; 20:10; Do;3;866; Oldenburg (Oldb); Stedinger Straﬂe;0;1;0;1;0;;;;;;;2;7;799;1;37;;;;71;;2021;5;13; he; tr; RF; -; SO;;8,229557;53,135891
+124; 13.05.2021; 20:50; Do;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;2;;9;;;;3;3;342;28;;10;;;21;71;2021;5;13; he; tr; PKW; RF; EK;;8,206763;53,161478
+125; 15.05.2021; 07:45; Sa;5;; Oldenburg (Oldb); Metzer Straﬂe;0;0;0;2;1;;;;;;;5;7;799;49;;;;;71;21;2021;5;15; du; tr; RF; PKW; SO;;8,210499;53,151796
+126; 17.05.2021; 07:51; Mo;5;; Oldenburg (Oldb); Leuschnerstraﬂe;0;0;2;2;4;;;7;;;;3;6;681;49;;11;;;71;71;2021;5;17; he; tr; RF; RF; LV; absteigend;8,157551;53,139246
+127; 17.05.2021; 16:52; Mo;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;1;;0;9;;;3;3;341;28;;;;;21;71;2021;5;17; he; na; PKW; RF; EK;;8,209173;53,156949
+128; 17.05.2021; 17:21; Mo;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;1;2;5;2;;9;;;;3;3;342;28;;10;;;21;71;2021;5;17; he; na; PKW; RF; EK; absteigend;8,225695;53,148905
+129; 19.05.2021; 00:04; Mi;5;; Oldenburg (Oldb); Klingenbergstraﬂe;0;0;1;2;5;2;;;;;9;3;3;371;1;49;;;;71;21;2021;5;19; du; tr; RF; PKW; EK;;8,21243;53,108969
+130; 19.05.2021; 10:15; Mi;5;; Oldenburg (Oldb); B¸mmersteder Tredde;0;0;1;2;5;2;;9;;;;3;2;224;35;;;;;21;71;2021;5;19; he; tr; PKW; RF; AB;;8,223822;53,094791
+131; 19.05.2021; 16:51; Mi;5;; Oldenburg (Oldb); Bahnhofsallee;0;0;1;2;5;2;;9;;;;3;3;301;28;;;;;21;72;2021;5;19; he; na; PKW; RF; EK; absteigend;8,237063;53,118952
+132; 21.05.2021; 13:50; Fr;5;; Oldenburg (Oldb); Straﬂburger Straﬂe;0;0;1;2;5;3;;9;;;;3;3;341;37;;;;;21;71;2021;5;21; he; tr; PKW; RF; EK;;8,225729;53,147145
+133; 22.05.2021; 14:00; Sa;5;; Oldenburg (Oldb); R¸stringer Straﬂe;0;0;0;2;1;;;;;;;5;7;799;49;;;;;92;71;2021;5;22; he; tr; SOF; RF; SO;;8,217805;53,161164
+134; 23.05.2021; 17:36; So;5;; Oldenburg (Oldb); Rauhehorst;0;0;1;2;5;3;;0;9;;;3;3;341;37;;;;;21;72;2021;5;23; he; tr; PKW; RF; EK;;8,194653;53,159466
+135; 25.05.2021; 08:50; Di;5;; Oldenburg (Oldb); Lange Straﬂe;0;0;1;2;0;;;;;;;3;7;721;36;;;;;71;71;2021;5;25; he; na; RF; RF; SO; aufsteigend;8,213371;53,140881
+136; 26.05.2021; 15:15; Mi;5;; Oldenburg (Oldb); Eichenstraﬂe;0;0;1;2;5;1;;0;9;;8;3;2;243;34;;;;;21;72;2021;5;26; he; tr; PKW; RF; AB; absteigend;8,182479;53,13663
+137; 27.05.2021; 08:05; Do;5;; Oldenburg (Oldb); Ehnernstraﬂe;0;0;1;2;5;1;;;;;;3;3;321;27;;;;;21;72;2021;5;27; he; na; PKW; RF; EK;;8,211183;53,160941
+138; 27.05.2021; 12:13; Do;5;; Oldenburg (Oldb); Stiekelkamp;0;0;1;2;0;;;;;;;3;6;652;49;;;;;72;72;2021;5;27; he; tr; RF; RF; LV; absteigend;8,208185;53,184758
+139; 28.05.2021; 08:10; Fr;5;; Oldenburg (Oldb); Weiﬂenmoorstraﬂe;0;0;1;2;1;;;;;;;3;5;562;37;;;;;21;71;2021;5;28; he; tr; PKW; RF; RV;;8,201778;53,185793
+140; 28.05.2021; 16:30; Fr;5;; Oldenburg (Oldb); Bremer Heerstraﬂe;0;1;0;2;6;;;0;9;;;2;7;799;64;;;;;81;71;2021;5;28; he; na; FG; RF; SO;;8,249967;53,123846
+141; 28.05.2021; 17:35; Fr;5;; Oldenburg (Oldb); Hauptstraﬂe;0;0;1;2;3;;;9;;;;3;6;651;49;;;;;71;72;2021;5;28; he; tr; RF; RF; LV; aufsteigend;8,19571;53,133239
+142; 29.05.2021; 17:10; Sa;5;; Oldenburg (Oldb); Klingenbergstraﬂe;0;0;1;2;4;;;0;9;;;3;6;681;10;;;;;71;72;2021;5;29; he; tr; RF; RF; LV;;8,221366;53,108861
+143; 30.05.2021; 18:35; So;5;; Oldenburg (Oldb); Eidechsenstraﬂe;0;0;0;2;1;;;;;;;6;5;501;1;49;;;;72;21;2021;5;30; he; tr; RF; PKW; RV; aufsteigend;8,221617;53,119713
+144; 31.05.2021; 16:45; Mo;5;; Oldenburg (Oldb); Scheideweg;0;0;0;2;5;2;;8;;;;5;3;374;37;;;;;71;21;2021;5;31; he; tr; RF; PKW; EK;;8,208901;53,173004
+145; 01.06.2021; 16:50; Di;5;; Oldenburg (Oldb); Lambertistraﬂe;0;0;0;2;5;2;;;;;;5;2;211;35;;;;;11;71;2021;6;1; he; tr; KRD; RF; AB;;8,212506;53,156044
+146; 02.06.2021; 17:00; Mi;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;3;;9;;;;3;2;243;34;;;;;21;71;2021;6;2; he; tr; PKW; RF; AB;;8,219175;53,154255
+147; 03.06.2021; 07:50; Do;5;; Oldenburg (Oldb); Hermannstraﬂe;0;0;1;2;5;3;;;;;;3;2;202;35;;;;;71;71;2021;6;3; he; tr; RF; RF; AB; absteigend;8,222101;53,133686
+148; 03.06.2021; 13:30; Do;3;865; Oldenburg (Oldb); Ofener Straﬂe;0;0;0;3;1;;;9;;;;5;3;301;37;;;;;71;21;2021;6;3; he; tr; RF; PKW; EK;;8,19366;53,143332
+149; 05.06.2021; 21:50; Sa;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;;;0;9;;;3;3;341;28;;;;;21;71;2021;6;5; he; tr; PKW; RF; EK;;8,205487;53,161852
+150; 06.06.2021; 15:45; So;5;; Oldenburg (Oldb); Ofenerdieker Straﬂe;0;0;1;2;0;3;;9;;;;3;7;753;69;;;;87;81;71;2021;6;6; he; tr; FG; RF; SO;;8,202353;53,185597
+151; 07.06.2021; 06:35; Mo;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;0;2;5;;;4;9;;;5;3;371;37;;;;;71;21;2021;6;7; he; tr; RF; PKW; EK; aufsteigend;8,221965;53,15982
+152; 07.06.2021; 14:30; Mo;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;1;2;4;;;0;9;;;3;6;681;10;;;;;71;72;2021;6;7; he; tr; RF; RF; LV; aufsteigend;8,207951;53,107607
+153; 07.06.2021; 14:52; Mo;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;4;1;;;;;8;3;2;244;34;;;;;21;71;2021;6;7; he; tr; PKW; RF; AB; absteigend;8,224219;53,162507
+154; 07.06.2021; 16:45; Mo;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;1;0;3;3;;;0;9;;;2;6;651;49;;49;;;71;71;2021;6;7; he; tr; RF; RF; LV;;8,228345;53,168101
+155; 08.06.2021; 12:15; Di;5;; Oldenburg (Oldb); Beverb‰ker Wiesen;0;0;1;2;4;2;;;;;;3;1;102;13;;;;;71;21;2021;6;8; he; tr; RF; PKW; F;;8,232491;53,15636
+156; 09.06.2021; 15:20; Mi;5;; Oldenburg (Oldb); Rauhehorst;0;0;0;2;5;2;;9;;;;5;3;341;28;;;;;21;72;2021;6;9; he; tr; PKW; RF; EK;;8,196645;53,158003
+157; 09.06.2021; 18:05; Mi;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;0;3;3;;;0;9;;;5;6;651;49;;49;;;71;71;2021;6;9; he; tr; RF; RF; LV; aufsteigend;8,217233;53,15124
+158; 10.06.2021; 07:44; Do;5;; Oldenburg (Oldb); Posthalterweg;0;0;1;2;5;7;;9;;;;3;3;303;28;;;;;21;71;2021;6;10; he; tr; PKW; RF; EK;;8,176952;53,156696
+159; 10.06.2021; 08:00; Do;3;865; Oldenburg (Oldb); Ofener Straﬂe;0;1;0;2;5;1;;;;;8;2;3;399;10;;;;;71;71;2021;6;10; he; tr; RF; RF; EK; aufsteigend;8,192986;53,143323
+160; 10.06.2021; 09:35; Do;4;124; Oldenburg (Oldb); Hundsm¸hler Straﬂe;0;0;1;2;5;2;;9;;;;3;2;224;35;;;;;21;71;2021;6;10; he; tr; PKW; RF; AB; aufsteigend;8,192989;53,114878
+161; 10.06.2021; 12:08; Do;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;3;;9;;;;3;2;243;34;;;;;21;71;2021;6;10; he; tr; PKW; RF; AB;;8,223938;53,161919
+162; 10.06.2021; 21:00; Do;5;; Oldenburg (Oldb); Harmoniestraﬂe;0;0;0;2;1;3;;;;;;5;7;799;49;;;;;92;71;2021;6;10; he; tr; SOF; RF; SO; aufsteigend;8,228866;53,132029
+163; 11.06.2021; 10:40; Fr;2;401; Oldenburg (Oldb); Hundsm¸hler Straﬂe;0;0;1;2;5;3;;9;;;;3;2;224;35;;;;;21;71;2021;6;11; he; tr; PKW; RF; AB; aufsteigend;8,190511;53,125892
+164; 11.06.2021; 11:15; Fr;3;865; Oldenburg (Oldb); Ofener Straﬂe;0;0;1;2;5;1;;0;9;;8;3;2;243;34;;;;;21;71;2021;6;11; he; tr; PKW; RF; AB;;8,193037;53,143564
+165; 13.06.2021; 14:20; So;3;866; Oldenburg (Oldb); Holler Landstraﬂe;0;0;1;2;5;;;;;;;3;7;703;49;;;;;21;71;2021;6;13; he; tr; PKW; RF; SO;;8,244991;53,139964
+166; 14.06.2021; 07:45; Mo;5;; Oldenburg (Oldb); Schulweg;0;0;1;2;5;1;;;;;;3;2;211;35;;;;;21;72;2021;6;14; he; tr; PKW; RF; AB;;8,210263;53,16213
+167; 14.06.2021; 14:00; Mo;5;; Oldenburg (Oldb); Frankfurter Weg;0;0;1;2;5;2;;0;9;;;3;3;342;28;;10;;;21;71;2021;6;14; he; tr; PKW; RF; EK;;8,216515;53,108964
+168; 14.06.2021; 15:55; Mo;5;; Oldenburg (Oldb); Bohlkenweg;0;0;1;2;5;1;;7;;;;3;3;301;28;;;;;71;21;2021;6;14; he; tr; RF; PKW; EK; absteigend;8,156779;53,145494
+169; 14.06.2021; 21:05; Mo;5;; Oldenburg (Oldb); Dreschkamp;0;0;1;1;9;;;;;;;3;1;141;1;;;;;71;;2021;6;14; he; tr; RF; -; F;;8,247001;53,171821
+170; 16.06.2021; 09:50; Mi;5;; Oldenburg (Oldb); Theodor-Heuss-Straﬂe;0;0;1;2;5;1;;;;;;3;3;321;27;;;;;71;71;2021;6;16; he; tr; RF; RF; EK;;8,170923;53,138908
+171; 17.06.2021; 16:30; Do;5;; Oldenburg (Oldb); Berliner Platz;0;0;0;2;5;3;;;;;;5;3;399;37;;;;;21;71;2021;6;17; he; tr; PKW; RF; EK;;8,226656;53,14577
+172; 17.06.2021; 16:50; Do;5;; Oldenburg (Oldb); J‰gerstraﬂe;0;0;1;2;3;3;;9;;;;3;2;243;34;;;;;40;71;2021;6;17; he; tr; LKW; RF; AB; absteigend;8,197134;53,151197
+173; 17.06.2021; 17:12; Do;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;1;0;2;5;2;;;;;;2;3;301;37;;;;;71;21;2021;6;17; he; tr; RF; PKW; EK;;8,220536;53,156385
+174; 17.06.2021; 18:30; Do;5;; Oldenburg (Oldb); Pferdemarkt;0;0;0;2;5;1;;0;9;;8;5;3;301;31;;;;;71;21;2021;6;17; he; tr; RF; PKW; EK;;8,213969;53,146443
+175; 17.06.2021; 18:30; Do;5;; Oldenburg (Oldb); Heiligengeiststraﬂe;0;0;1;2;3;1;;;;;8;3;2;299;31;;;;;21;71;2021;6;17; he; tr; PKW; RF; AB; absteigend;8,213753;53,146336
+176; 17.06.2021; 22:10; Do;5;; Oldenburg (Oldb); Berliner Platz;0;1;0;1;0;;;;;;;2;7;799;48;;;;;71;;2021;6;17; he; tr; RF; -; SO; aufsteigend;8,226052;53,146074
+177; 18.06.2021; 14:50; Fr;5;; Oldenburg (Oldb); Scheideweg;0;1;0;1;0;2;;9;;;;2;7;799;49;;;;;71;;2021;6;18; he; tr; RF; -; SO; absteigend;8,214183;53,167076
+178; 18.06.2021; 19:51; Fr;5;; Oldenburg (Oldb); Lambertistraﬂe;0;0;1;2;1;;;;;;;3;5;581;45;;;;;21;71;2021;6;18; he; tr; PKW; RF; RV; aufsteigend;8,214162;53,155753
+179; 18.06.2021; 22:45; Fr;5;; Oldenburg (Oldb); Dwaschweg;0;0;0;1;1;;;;;;;5;5;501;49;;;;;71;;2021;6;18; du; tr; RF; -; RV;;8,22659;53,107384
+180; 19.06.2021; 21:00; Sa;5;; Oldenburg (Oldb); Achternstraﬂe;0;0;0;2;4;;;;;;;5;6;681;49;;;;;71;21;2021;6;19; he; tr; RF; PKW; LV; absteigend;8,214436;53,140958
+181; 21.06.2021; 12:55; Mo;5;; Oldenburg (Oldb); Bremer Heerstraﬂe;0;0;2;2;5;3;;9;;;;3;3;371;37;;;;;71;71;2021;6;21; he; na; RF; RF; EK;;8,246247;53,12499
+182; 21.06.2021; 15:20; Mo;5;; Oldenburg (Oldb); Am Schmeel;0;1;0;2;4;2;;;;;;2;2;224;35;;;;;21;71;2021;6;21; he; na; PKW; RF; AB; absteigend;8,244046;53,088727
+183; 21.06.2021; 17:05; Mo;5;; Oldenburg (Oldb); Eﬂkamp;0;1;1;2;5;;;;;;;2;3;371;37;;;;;72;21;2021;6;21; he; na; RF; PKW; EK; aufsteigend;8,213111;53,170092
+184; 22.06.2021; 11:20; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;;40;71;2021;6;22; he; tr; LKW; RF; AB; aufsteigend;8,221397;53,158168
+185; 22.06.2021; 14:00; Di;5;; Oldenburg (Oldb); B¸rgerfelder Straﬂe;0;0;1;2;1;;;;;;;3;5;501;49;;;;;71;21;2021;6;22; he; tr; RF; PKW; RV; aufsteigend;8,204225;53,164903
+186; 22.06.2021; 16:46; Di;5;; Oldenburg (Oldb); Melkbrink;0;1;0;2;5;3;;9;;;;2;2;243;34;;;;;21;72;2021;6;22; he; tr; PKW; RF; AB; aufsteigend;8,20127;53,156112
+187; 22.06.2021; 20:50; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;4;3;;;;;;3;2;224;35;;;;;21;71;2021;6;22; he; tr; PKW; RF; AB; aufsteigend;8,218323;53,153152
+188; 23.06.2021; 09:30; Mi;5;; Oldenburg (Oldb); Peterstraﬂe;0;1;0;2;5;3;;0;9;;;2;2;243;34;;;;;21;72;2021;6;23; he; tr; PKW; RF; AB; absteigend;8,208437;53,142913
+189; 23.06.2021; 16:25; Mi;5;; Oldenburg (Oldb); Liegnitzer Straﬂe;0;0;0;2;5;;;9;;;;5;3;371;37;;;;;71;71;2021;6;23; he; tr; RF; RF; EK; aufsteigend;8,195513;53,168471
+190; 23.06.2021; 17:09; Mi;5;; Oldenburg (Oldb); Friedhofsweg;0;0;1;2;5;1;;9;;;8;3;2;243;34;;;;;21;71;2021;6;23; he; tr; PKW; RF; AB;;8,200608;53,151291
+191; 23.06.2021; 18:15; Mi;5;; Oldenburg (Oldb); Hochheider Weg;0;1;0;2;3;2;;;;;;2;6;699;27;;;;;71;21;2021;6;23; he; tr; RF; PKW; LV;;8,230114;53,160819
+192; 24.06.2021; 16:05; Do;5;; Oldenburg (Oldb); Lambertistraﬂe;0;0;0;2;1;;;;;;;5;5;502;49;;;;;71;21;2021;6;24; he; tr; RF; PKW; RV;;8,218557;53,154621
+193; 24.06.2021; 16:20; Do;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;1;0;2;3;2;;9;;;;2;6;651;23;;9;;;71;71;2021;6;24; he; tr; RF; RF; LV; absteigend;8,229417;53,149518
+194; 25.06.2021; 10:00; Fr;5;; Oldenburg (Oldb); Wilhelmshavener Heerstraﬂe;0;0;0;2;1;;;;;;;5;7;703;49;;;;;21;71;2021;6;25; he; tr; PKW; RF; SO;;8,228925;53,173159
+195; 25.06.2021; 17:50; Fr;5;; Oldenburg (Oldb); Staulinie;0;0;1;2;6;;;;;;8;3;6;671;42;;;;;71;81;2021;6;25; he; tr; RF; FG; LV;;8,213759;53,143238
+196; 25.06.2021; 20:52; Fr;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;1;0;2;5;;;;;;;2;2;243;34;;;;;21;71;2021;6;25; d‰; tr; PKW; RF; AB;;8,220293;53,156029
+197; 26.06.2021; 10:03; Sa;5;; Oldenburg (Oldb); Sodenstich;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;6;26; he; tr; RF; PKW; RV;;8,202193;53,126044
+198; 28.06.2021; 12:30; Mo;5;; Oldenburg (Oldb); Lindenallee;0;0;0;2;5;1;;;;;;5;3;321;28;;;;;21;71;2021;6;28; he; tr; PKW; RF; EK;;8,205839;53,14114
+199; 28.06.2021; 16:03; Mo;5;; Oldenburg (Oldb); Marschweg;0;0;1;2;5;2;;;;;;3;3;342;28;;10;;;21;71;2021;6;28; he; tr; PKW; RF; EK;;8,204819;53,128674
+200; 28.06.2021; 16:30; Mo;5;; Oldenburg (Oldb); Dwaschweg;0;0;1;2;5;1;;7;;;;3;3;341;13;;;;;21;72;2021;6;28; he; tr; PKW; RF; EK; absteigend;8,234007;53,098497
+201; 29.06.2021; 07:55; Di;5;; Oldenburg (Oldb); Haareneschstraﬂe;0;0;1;2;5;3;;;;;;3;2;243;34;;10;;;21;71;2021;6;29; he; na; PKW; RF; AB; aufsteigend;8,196633;53,144254
+202; 29.06.2021; 09:35; Di;5;; Oldenburg (Oldb); Friedhofsweg;0;0;1;2;2;1;;;;;8;3;6;601;23;;;;;71;71;2021;6;29; he; na; RF; RF; LV; absteigend;8,200723;53,151277
+203; 29.06.2021; 10:00; Di;5;; Oldenburg (Oldb); Haarenufer;0;0;1;2;5;1;;;;;;3;3;301;28;;;;;21;71;2021;6;29; he; na; PKW; RF; EK; absteigend;8,205781;53,141176
+204; 29.06.2021; 12:15; Di;5;; Oldenburg (Oldb); Kranbergstraﬂe;0;0;1;2;1;;;;;;;3;5;561;37;;;;;21;71;2021;6;29; he; tr; PKW; RF; RV; absteigend;8,234875;53,155858
+205; 01.07.2021; 09:25; Do;3;865; Oldenburg (Oldb); Heiligengeistwall;0;0;1;2;5;2;;0;9;;8;3;2;243;34;;;;;44;71;2021;7;1; he; na; LKW; RF; AB; absteigend;8,209062;53,141783
+206; 01.07.2021; 19:04; Do;5;; Oldenburg (Oldb); Wilhelmshavener Heerstraﬂe;0;0;1;2;5;3;;;;;;3;3;342;37;;10;;;21;71;2021;7;1; he; tr; PKW; RF; EK; absteigend;8,229419;53,169831
+207; 02.07.2021; 12:30; Fr;5;; Oldenburg (Oldb); Bahnweg;0;0;0;2;5;2;;;;;;5;3;301;37;;;;;71;21;2021;7;2; he; tr; RF; PKW; EK;;8,203717;53,166915
+208; 04.07.2021; 04:29; So;3;865; Oldenburg (Oldb); Julius-Mosen-Platz;0;1;0;1;0;;;;;;;2;7;799;1;;;;;71;;2021;7;4; d‰; tr; RF; -; SO;;8,208667;53,141264
+209; 05.07.2021; 07:15; Mo;5;; Oldenburg (Oldb); Karuschenweg;0;0;0;2;1;;;;;;;5;7;799;49;;;;;71;21;2021;7;5; he; tr; RF; PKW; SO;;8,200249;53,190295
+210; 05.07.2021; 16:10; Mo;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;2;2;6;2;;;;;8;3;4;421;62;;;;;81;71;2021;7;5; he; tr; FG; RF; ‹S; aufsteigend;8,223508;53,161394
+211; 05.07.2021; 16:15; Mo;3;828; Oldenburg (Oldb); Edewechter Landstraﬂe;0;0;1;2;5;2;;0;9;;8;3;2;299;22;;;;;71;72;2021;7;5; he; tr; RF; RF; AB;;8,185879;53,133566
+212; 06.07.2021; 11:36; Di;5;; Oldenburg (Oldb); Hauptstraﬂe;0;0;1;2;5;1;;9;;;8;3;2;243;34;;;;;21;71;2021;7;6; he; tr; PKW; RF; AB; aufsteigend;8,204363;53,133931
+213; 06.07.2021; 13:20; Di;2;401; Oldenburg (Oldb); Hundsm¸hler Straﬂe;0;0;1;2;5;2;;2;9;;8;3;2;243;34;;;;;21;72;2021;7;6; he; tr; PKW; RF; AB;;8,191535;53,123997
+214; 06.07.2021; 15:55; Di;5;; Oldenburg (Oldb); Weiﬂenmoorstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;21;71;2021;7;6; he; tr; PKW; RF; EK;;8,206139;53,183168
+215; 06.07.2021; 17:40; Di;5;; Oldenburg (Oldb); Auguststraﬂe;0;0;0;2;5;;;;;;;5;2;232;34;;13;;;71;72;2021;7;6; he; tr; RF; RF; AB; aufsteigend;8,203975;53,144218
+216; 07.07.2021; 12:55; Mi;5;; Oldenburg (Oldb); Bremer Straﬂe;0;0;1;2;5;;;;;;;3;3;321;27;;;;;71;71;2021;7;7; he; tr; RF; RF; EK;;8,224311;53,130683
+217; 07.07.2021; 13:30; Mi;5;; Oldenburg (Oldb); Straﬂburger Straﬂe;0;1;0;2;4;;;;;;;2;6;681;10;;;;;71;71;2021;7;7; he; tr; RF; RF; LV;;8,224434;53,144223
+218; 07.07.2021; 14:30; Mi;5;; Oldenburg (Oldb); Wismarer Weg;0;0;2;2;6;3;;;;;;3;4;401;65;;;;;81;71;2021;7;7; he; tr; FG; RF; ‹S;;8,206144;53,158329
+219; 07.07.2021; 16:01; Mi;5;; Oldenburg (Oldb); Industriehof;0;0;1;2;5;2;;;;;;3;3;342;28;;10;;;21;71;2021;7;7; he; tr; PKW; RF; EK;;8,212876;53,10893
+220; 08.07.2021; 17:40; Do;5;; Oldenburg (Oldb); Bremer Heerstraﬂe;0;0;0;2;5;3;;9;;;;5;3;322;37;;;;;21;71;2021;7;8; he; tr; PKW; RF; EK;;8,254692;53,120948
+221; 09.07.2021; 23:34; Fr;5;; Oldenburg (Oldb); Haarenufer;0;0;1;2;7;;;;;;;3;7;759;1;17;49;;;71;71;2021;7;9; du; tr; RF; RF; SO; absteigend;8,205317;53,141189
+222; 10.07.2021; 01:00; Sa;5;; Oldenburg (Oldb); Schloﬂwall;0;1;0;1;0;;;;;;;2;1;189;49;;;;;72;;2021;7;10; du; tr; RF; -; F; absteigend;8,21647;53,136968
+223; 10.07.2021; 14:00; Sa;3;866; Oldenburg (Oldb); Stedinger Straﬂe;0;0;0;2;1;;;;;;;5;7;703;49;;;;;71;21;2021;7;10; he; tr; RF; PKW; SO;;8,22773;53,135185
+224; 11.07.2021; 19:20; So;5;; Oldenburg (Oldb); Rosenstraﬂe;0;0;1;2;2;2;;;;;;3;6;621;49;;;;;21;71;2021;7;11; he; tr; PKW; RF; LV; aufsteigend;8,220224;53,14075
+225; 11.07.2021; 20:00; So;5;; Oldenburg (Oldb); Pferdemarkt;0;0;1;2;5;2;;9;;;;3;2;244;34;;;;;21;71;2021;7;11; he; tr; PKW; RF; AB;;8,211885;53,146161
+226; 12.07.2021; 08:25; Mo;5;; Oldenburg (Oldb); Stadtfeld;0;0;1;2;5;2;;0;9;;;3;3;342;28;;10;;;72;71;2021;7;12; he; tr; RF; RF; EK;;8,189035;53,16475
+227; 12.07.2021; 10:15; Mo;5;; Oldenburg (Oldb); Heiligengeiststraﬂe;0;0;0;2;5;;;;;;;5;3;301;49;;;;;21;71;2021;7;12; he; tr; PKW; RF; EK;;8,213547;53,145457
+228; 12.07.2021; 13:50; Mo;5;; Oldenburg (Oldb); Bloherfelder Straﬂe;0;0;0;2;5;;;;;;;5;2;224;35;;;;;21;71;2021;7;12; he; tr; PKW; RF; AB;;8,17263;53,141332
+229; 13.07.2021; 08:35; Di;4;138; Oldenburg (Oldb); Bloherfelder Straﬂe;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;;40;72;2021;7;13; he; tr; LKW; RF; AB; aufsteigend;8,186168;53,141914
+230; 13.07.2021; 16:01; Di;5;; Oldenburg (Oldb); B¸rgerbuschweg;0;0;1;2;4;;;;;;;3;5;521;24;;;;;21;72;2021;7;13; he; tr; PKW; RF; RV; absteigend;8,199055;53,173842
+231; 13.07.2021; 16:04; Di;5;; Oldenburg (Oldb); Friedhofsweg;0;0;1;2;0;1;;8;;;9;3;2;243;34;;;;;21;72;2021;7;13; he; na; PKW; RF; AB; aufsteigend;8,199885;53,155945
+232; 13.07.2021; 19:00; Di;5;; Oldenburg (Oldb); Melkbrink;0;0;1;2;5;3;;9;;;;3;3;342;37;;;;;21;71;2021;7;13; he; na; PKW; RF; EK;;8,201323;53,15613
+233; 14.07.2021; 12:06; Mi;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;3;;;;;;3;3;342;28;;;;;21;72;2021;7;14; he; na; PKW; RF; EK; aufsteigend;8,198177;53,168526
+234; 14.07.2021; 13:05; Mi;5;; Oldenburg (Oldb); Scheideweg;0;0;0;2;5;3;;;;;;5;2;299;35;;;;;40;71;2021;7;14; he; na; LKW; RF; AB;;8,221134;53,160011
+235; 15.07.2021; 15:15; Do;5;; Oldenburg (Oldb); Zanderweg;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;7;15; he; na; RF; PKW; RV;;8,199206;53,189058
+236; 15.07.2021; 18:30; Do;5;; Oldenburg (Oldb); Hindenburgstraﬂe;0;0;1;2;4;;;;;;;3;6;681;11;;;;;71;72;2021;7;15; he; na; RF; RF; LV; absteigend;8,206308;53,137718
+237; 15.07.2021; 19:55; Do;5;; Oldenburg (Oldb); Paradewall;0;0;0;2;5;1;;;;;8;5;3;321;31;;;;;71;21;2021;7;15; he; na; RF; PKW; EK;;8,216808;53,136865
+238; 16.07.2021; 15:30; Fr;5;; Oldenburg (Oldb); Weiﬂenmoorstraﬂe;0;0;1;2;5;3;;9;;;;3;2;243;34;;;;;21;71;2021;7;16; he; tr; PKW; RF; AB; absteigend;8,205677;53,183286
+239; 18.07.2021; 13:02; So;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;0;;;0;9;;;3;7;799;1;49;;;;71;21;2021;7;18; he; tr; RF; PKW; SO;;8,211668;53,15225
+240; 18.07.2021; 17:40; So;5;; Oldenburg (Oldb); Theaterwall;0;0;1;2;3;3;;;;;;3;6;651;49;;;;;71;71;2021;7;18; he; tr; RF; RF; LV; aufsteigend;8,209936;53,139738
+241; 19.07.2021; 11:00; Mo;5;; Oldenburg (Oldb); W¸rzburger Straﬂe;0;0;1;2;5;2;;;;;;3;3;322;27;;;;;71;71;2021;7;19; he; tr; RF; RF; EK;;8,209714;53,146756
+242; 20.07.2021; 13:15; Di;5;; Oldenburg (Oldb); Bernhardstraﬂe;0;0;1;2;2;3;;;;;;3;2;231;49;;;;;71;40;2021;7;20; he; tr; RF; LKW; AB; aufsteigend;8,193298;53,134502
+243; 21.07.2021; 21:06; Mi;5;; Oldenburg (Oldb); Stau;0;0;1;2;1;;;;;;;3;5;501;1;49;;;;71;21;2021;7;21; he; tr; RF; PKW; RV;;8,219694;53,140674
+244; 22.07.2021; 10:10; Do;5;; Oldenburg (Oldb); Bremer Straﬂe;0;0;1;2;5;3;;;;;;3;3;341;37;;;;;21;71;2021;7;22; he; tr; PKW; RF; EK; aufsteigend;8,224399;53,130815
+245; 22.07.2021; 14:10; Do;5;; Oldenburg (Oldb); B¸rgerbuschweg;0;0;1;2;0;2;;;;;;3;2;299;67;;40;;;81;71;2021;7;22; he; tr; FG; RF; AB;;8,200104;53,174282
+246; 22.07.2021; 22:25; Do;5;; Oldenburg (Oldb); Elisabethstraﬂe;0;0;0;2;1;;;;;;;6;5;501;1;49;;;;71;21;2021;7;22; du; tr; RF; PKW; RV; aufsteigend;8,212311;53,133473
+247; 23.07.2021; 07:15; Fr;5;; Oldenburg (Oldb); Ackerstraﬂe;0;0;1;2;5;2;;;;;;3;3;341;28;;;;;21;71;2021;7;23; he; tr; PKW; RF; EK;;8,220512;53,156396
+248; 23.07.2021; 17:15; Fr;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;2;2;5;1;;;;;8;3;3;321;49;;;;;71;71;2021;7;23; he; tr; RF; RF; EK; aufsteigend;8,194459;53,172181
+249; 23.07.2021; 17:30; Fr;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;2;;;;;9;3;3;309;1;31;;;;71;21;2021;7;23; he; tr; RF; PKW; EK; absteigend;8,214658;53,147913
+250; 24.07.2021; 14:25; Sa;5;; Oldenburg (Oldb); Peterstraﬂe;0;0;1;2;5;1;;;;;8;3;7;719;36;;;;;21;71;2021;7;24; he; tr; PKW; RF; SO; absteigend;8,208811;53,143333
+251; 24.07.2021; 21:19; Sa;5;; Oldenburg (Oldb); Lindenstraﬂe;0;0;2;2;4;2;;;;;;3;6;681;49;;49;;;71;71;2021;7;24; d‰; na; RF; RF; LV; absteigend;8,218188;53,148727
+252; 25.07.2021; 12:27; So;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;3;;;;;;3;3;342;37;;10;;;21;71;2021;7;25; he; tr; PKW; RF; EK;;8,225547;53,164544
+253; 26.07.2021; 09:40; Mo;3;868; Oldenburg (Oldb); Bremer Heerstraﬂe;0;0;1;2;5;3;;0;9;;;3;2;224;35;;;;;21;72;2021;7;26; he; tr; PKW; RF; AB; absteigend;8,266866;53,11264
+254; 26.07.2021; 11:50; Mo;5;; Oldenburg (Oldb); Am Stadtrand;0;0;1;2;5;2;;0;9;;;3;2;243;34;;;;;21;71;2021;7;26; he; tr; PKW; RF; AB;;8,197938;53,187756
+255; 26.07.2021; 15:25; Mo;5;; Oldenburg (Oldb); Schloﬂwall;0;0;1;2;5;1;;;;;8;3;2;222;35;;;;;21;71;2021;7;26; he; tr; PKW; RF; AB; absteigend;8,21338;53,137632
+256; 27.07.2021; 17:30; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;1;0;2;5;3;;9;;;;2;2;224;35;;;;;21;72;2021;7;27; he; tr; PKW; RF; AB; aufsteigend;8,225859;53,164942
+257; 27.07.2021; 17:40; Di;5;; Oldenburg (Oldb); Am Schloﬂgarten;0;0;1;2;3;;;9;;;;3;6;651;49;;;;;71;71;2021;7;27; he; tr; RF; RF; LV; aufsteigend;8,208224;53,132232
+258; 27.07.2021; 18:30; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;;21;71;2021;7;27; he; na; PKW; RF; AB;;8,217552;53,151627
+259; 28.07.2021; 13:00; Mi;5;; Oldenburg (Oldb); Friedlandstraﬂe;0;0;1;2;5;;;;;;;3;7;711;49;;;;;40;71;2021;7;28; he; tr; LKW; RF; SO; aufsteigend;8,192642;53,16958
+260; 30.07.2021; 15:30; Fr;5;; Oldenburg (Oldb); B¸rgerbuschweg;0;0;2;2;0;2;;0;9;;;3;1;122;34;;;;;71;71;2021;7;30; he; tr; RF; RF; F;;8,194506;53,172212
+261; 31.07.2021; 16:50; Sa;5;; Oldenburg (Oldb); Banater Weg;0;0;0;2;0;;;;;;;5;7;799;49;;;;;71;21;2021;7;31; he; na; RF; PKW; SO;;8,197705;53,172353
+262; 03.08.2021; 02:20; Di;5;; Oldenburg (Oldb); Trakehnenstraﬂe;0;0;1;2;1;;;;;;;3;5;501;1;;;;;71;21;2021;8;3; du; tr; RF; PKW; RV;;8,192408;53,160565
+263; 03.08.2021; 07:50; Di;5;; Oldenburg (Oldb); Uhlhornsweg;0;1;0;2;5;1;;;;;;2;2;244;34;;;;;21;71;2021;8;3; he; tr; PKW; RF; AB;;8,18272;53,148239
+264; 03.08.2021; 11:58; Di;5;; Oldenburg (Oldb); Haselriege;0;0;1;2;5;2;;;;;;3;3;342;28;;10;;;21;71;2021;8;3; he; tr; PKW; RF; EK;;8,232235;53,179925
+265; 03.08.2021; 14:57; Di;5;; Oldenburg (Oldb); Langenweg;0;0;1;2;5;2;;8;;;;3;3;342;28;;;;;21;71;2021;8;3; he; tr; PKW; RF; EK; aufsteigend;8,224866;53,184781
+266; 04.08.2021; 07:20; Mi;5;; Oldenburg (Oldb); Rummelweg;0;0;0;2;2;;;;;;;5;2;232;34;;;;;71;21;2021;8;4; he; tr; RF; PKW; AB;;8,197637;53,141597
+267; 05.08.2021; 14:31; Do;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;2;;;;;;3;3;342;28;;10;;;21;71;2021;8;5; he; tr; PKW; RF; EK; absteigend;8,208812;53,160035
+268; 05.08.2021; 16:55; Do;3;138; Oldenburg (Oldb); Prinzessinweg;0;0;1;2;4;2;;;;;9;3;2;211;35;;;;;21;71;2021;8;5; he; tr; PKW; RF; AB; aufsteigend;8,191698;53,141954
+269; 06.08.2021; 08:00; Fr;5;; Oldenburg (Oldb); Klingenbergstraﬂe;0;0;3;3;5;;;;;;;3;2;211;35;;;;;21;21;2021;8;6; he; tr; PKW; PKW; AB;;8,225386;53,108839
+270; 08.08.2021; 16:50; So;5;; Oldenburg (Oldb); Scheideweg;0;0;0;2;1;;;;;;;5;7;799;69;;;;;81;71;2021;8;8; he; tr; FG; RF; SO;;8,217676;53,163636
+271; 09.08.2021; 14:55; Mo;3;866; Oldenburg (Oldb); Stedinger Straﬂe;0;0;1;2;5;3;;9;;;;3;2;243;34;;;;;21;71;2021;8;9; he; tr; PKW; RF; AB; aufsteigend;8,223235;53,132299
+272; 10.08.2021; 06:43; Di;5;; Oldenburg (Oldb); B¸mmersteder Tredde;0;0;1;2;5;;;;;;;3;3;302;37;;;;;21;72;2021;8;10; he; tr; PKW; RF; EK;;8,217238;53,093207
+273; 10.08.2021; 15:33; Di;5;; Oldenburg (Oldb); Rauhehorst;0;1;0;2;5;;;;;;;2;7;711;36;;;;;40;71;2021;8;10; he; na; LKW; RF; SO;;8,190987;53,162996
+274; 10.08.2021; 15:50; Di;5;; Oldenburg (Oldb); Amalienstraﬂe;0;0;1;2;5;;;;;;;3;3;344;31;;;;;33;71;2021;8;10; he; na; BUS; RF; EK; aufsteigend;8,218958;53,139017
+275; 11.08.2021; 09:15; Mi;5;; Oldenburg (Oldb); Marschweg;0;0;1;3;4;;;;;;;3;6;681;49;;;;;71;71;2021;8;11; he; tr; RF; RF; LV;;8,204537;53,127719
+276; 11.08.2021; 09:45; Mi;5;; Oldenburg (Oldb); Porsenbergstraﬂe;0;0;0;2;5;1;;;;;;5;3;344;27;;;;;21;71;2021;8;11; he; tr; PKW; RF; EK;;8,21969;53,161446
+277; 11.08.2021; 18:00; Mi;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;0;2;5;2;;0;9;;;5;3;342;28;;;;;21;71;2021;8;11; he; tr; PKW; RF; EK;;8,247944;53,159601
+278; 12.08.2021; 09:00; Do;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;0;3;2;1;;;;;8;5;2;231;49;;;;89;21;21;2021;8;12; he; tr; PKW; PKW; AB; absteigend;8,209413;53,15635
+279; 12.08.2021; 15:00; Do;5;; Oldenburg (Oldb); Hˆrneweg;0;0;1;2;5;1;;;;;;3;3;321;27;;;;;71;21;2021;8;12; he; tr; RF; PKW; EK; absteigend;8,155681;53,147055
+280; 12.08.2021; 17:00; Do;5;; Oldenburg (Oldb); Katharinenstraﬂe;0;0;1;2;3;;;;;;;3;6;651;49;;;;;71;71;2021;8;12; he; tr; RF; RF; LV; absteigend;8,206064;53,14381
+281; 12.08.2021; 18:15; Do;3;866; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;1;2;5;1;;0;9;;8;3;2;224;31;;;;;71;21;2021;8;12; he; tr; RF; PKW; AB; aufsteigend;8,222441;53,131651
+282; 13.08.2021; 08:50; Fr;3;865; Oldenburg (Oldb); Am Stadtmuseum;0;0;1;2;5;1;;9;;;8;3;2;243;34;;;;;40;71;2021;8;13; he; tr; LKW; RF; AB; absteigend;8,21422;53,143472
+283; 13.08.2021; 17:05; Fr;3;824; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;1;;0;9;;8;3;3;301;31;;31;;;21;71;2021;8;13; he; tr; PKW; RF; EK; absteigend;8,205153;53,162271
+284; 19.08.2021; 11:55; Do;5;; Oldenburg (Oldb); Damm;0;0;1;2;6;;;;;;;3;4;401;64;;;;;81;71;2021;8;19; he; na; FG; RF; ‹S;;8,219099;53,134006
+285; 21.08.2021; 00:15; Sa;5;; Oldenburg (Oldb); Lambertistraﬂe;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;8;21; du; tr; RF; PKW; RV;;8,215642;53,155394
+286; 21.08.2021; 01:22; Sa;5;; Oldenburg (Oldb); Ewigkeit;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;8;21; du; tr; RF; PKW; RV; aufsteigend;8,214422;53,115232
+287; 21.08.2021; 17:59; Sa;5;; Oldenburg (Oldb); Sodenstich;0;0;1;1;8;;;;;;;3;7;799;49;;;;;71;;2021;8;21; he; tr; RF; -; SO; aufsteigend;8,199114;53,125868
+288; 22.08.2021; 09:38; So;5;; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;0;2;1;;;;;;;5;5;502;49;;;;;71;21;2021;8;22; he; na; RF; PKW; RV; absteigend;8,214932;53,117761
+289; 23.08.2021; 08:54; Mo;5;; Oldenburg (Oldb); Am Alexanderhaus;0;0;1;2;5;3;;;;;;3;3;342;37;;10;;;21;71;2021;8;23; he; tr; PKW; RF; EK; absteigend;8,200578;53,185839
+290; 23.08.2021; 14:05; Mo;4;348; Oldenburg (Oldb); Ammerl‰nder Heerstraﬂe;0;0;1;2;5;1;;;;;;3;2;243;34;;;;;21;71;2021;8;23; he; tr; PKW; RF; AB; absteigend;8,186856;53,146528
+291; 23.08.2021; 15:40; Mo;5;; Oldenburg (Oldb); B¸rgerbuschweg;0;0;0;2;5;1;;;;;;5;3;342;28;;;;;21;71;2021;8;23; he; tr; PKW; RF; EK;;8,197146;53,173092
+292; 23.08.2021; 17:31; Mo;5;; Oldenburg (Oldb); Marschweg;0;0;1;2;5;3;;9;;;;3;3;342;37;;;;;21;71;2021;8;23; he; tr; PKW; RF; EK; aufsteigend;8,204517;53,133565
+293; 23.08.2021; 17:48; Mo;5;; Oldenburg (Oldb); Schloﬂplatz;0;0;0;2;0;;;;;;;5;7;709;49;;;;;21;71;2021;8;23; he; tr; PKW; RF; SO;;8,215664;53,137416
+294; 24.08.2021; 08:45; Di;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;0;2;1;;;;;;;5;7;799;49;;;;;71;21;2021;8;24; he; tr; RF; PKW; SO;;8,211426;53,152267
+295; 24.08.2021; 11:15; Di;5;; Oldenburg (Oldb); Sandkruger Straﬂe;0;0;1;2;5;;;0;9;;8;3;2;211;35;;;;;21;71;2021;8;24; he; tr; PKW; RF; AB; aufsteigend;8,206695;53,101956
+296; 25.08.2021; 05:35; Mi;4;138; Oldenburg (Oldb); Bloherfelder Straﬂe;0;0;2;2;6;;;;;;;3;7;799;65;;;;;81;71;2021;8;25; du; na; FG; RF; SO; absteigend;8,190872;53,141695
+297; 25.08.2021; 14:25; Mi;4;348; Oldenburg (Oldb); Ammerl‰nder Heerstraﬂe;0;0;1;2;5;3;;9;;;;3;3;342;37;;;;;21;71;2021;8;25; he; tr; PKW; RF; EK; aufsteigend;8,168272;53,159148
+298; 25.08.2021; 14:30; Mi;5;; Oldenburg (Oldb); Elisabethstraﬂe;0;0;0;2;1;;;;;;;5;7;799;49;;;;;71;21;2021;8;25; he; tr; RF; PKW; SO;;8,216687;53,136262
+299; 25.08.2021; 14:35; Mi;5;; Oldenburg (Oldb); Emsstraﬂe;0;0;1;2;5;2;;8;;;;3;3;341;28;;;;;21;71;2021;8;25; he; tr; PKW; RF; EK; absteigend;8,22699;53,136856
+300; 25.08.2021; 22:10; Mi;5;; Oldenburg (Oldb); Sch¸tzenweg;0;0;1;2;5;2;;;;;;3;3;303;28;;;;;21;71;2021;8;25; du; na; PKW; RF; EK;;8,187688;53,147228
+301; 26.08.2021; 07:40; Do;4;138; Oldenburg (Oldb); Bloherfelder Straﬂe;0;0;1;2;5;;;;;;;3;7;703;49;;;;;21;71;2021;8;26; he; tr; PKW; RF; SO;;8,18634;53,141662
+302; 26.08.2021; 08:50; Do;3;828; Oldenburg (Oldb); Edewechter Landstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;342;28;;;;;21;72;2021;8;26; he; tr; PKW; RF; EK; absteigend;8,134908;53,127
+303; 26.08.2021; 14:30; Do;3;828; Oldenburg (Oldb); Edewechter Landstraﬂe;0;0;0;2;1;;;0;9;;;5;7;799;49;;;;;71;21;2021;8;26; he; tr; RF; PKW; SO;;8,184585;53,132697
+304; 26.08.2021; 16:40; Do;5;; Oldenburg (Oldb); M¸hlenhofsweg;0;0;1;2;5;1;;;;;;3;3;321;28;;;;;21;72;2021;8;26; he; tr; PKW; RF; EK;;8,237977;53,165452
+305; 26.08.2021; 18:28; Do;5;; Oldenburg (Oldb); Langenweg;0;0;1;2;5;2;;0;9;;;3;2;211;35;;;;82;21;71;2021;8;26; he; tr; PKW; RF; AB;;8,224647;53,184771
+306; 26.08.2021; 20:00; Do;5;; Oldenburg (Oldb); Huntestraﬂe;0;0;0;2;5;;;;;;;5;3;306;10;;;;;71;71;2021;8;26; he; tr; RF; RF; EK; aufsteigend;8,217284;53,136467
+307; 27.08.2021; 16:23; Fr;5;; Oldenburg (Oldb); Artillerieweg;0;0;1;2;0;;;;;;;3;3;372;37;;;;;71;4;2021;8;27; he; tr; RF; KRD; EK; absteigend;8,18467;53,149828
+308; 28.08.2021; 18:45; Sa;5;; Oldenburg (Oldb); B¸mmersteder Tredde;0;0;1;2;5;1;;9;;;;3;3;341;28;;;;;21;71;2021;8;28; du; tr; PKW; RF; EK; aufsteigend;8,235805;53,096232
+309; 30.08.2021; 08:05; Mo;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;1;0;2;5;2;;9;;;;2;3;342;28;;10;;;21;71;2021;8;30; he; tr; PKW; RF; EK; absteigend;8,247625;53,15909
+310; 30.08.2021; 13:45; Mo;5;; Oldenburg (Oldb); Langenweg;0;0;0;2;5;;;;;;;5;3;399;10;;;;;71;21;2021;8;30; he; tr; RF; PKW; EK; aufsteigend;8,216432;53,184948
+311; 31.08.2021; 16:40; Di;5;; Oldenburg (Oldb); Sandweg;0;0;1;2;2;;;;;;;3;6;601;49;;;;;72;21;2021;8;31; he; tr; RF; PKW; LV;;8,251721;53,129155
+312; 01.09.2021; 13:45; Mi;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;6;;;;;;;3;4;421;64;;;;;81;71;2021;9;1; he; tr; FG; RF; ‹S; absteigend;8,213531;53,149936
+313; 01.09.2021; 14:55; Mi;3;866; Oldenburg (Oldb); Holler Landstraﬂe;0;0;1;2;1;;;3;;;;3;7;703;49;;49;;;71;21;2021;9;1; he; tr; RF; PKW; SO; aufsteigend;8,256403;53,139137
+314; 01.09.2021; 18:15; Mi;5;; Oldenburg (Oldb); Els‰sser Straﬂe;0;0;0;2;5;1;;0;9;;8;5;2;243;34;;;;;21;71;2021;9;1; he; tr; PKW; RF; AB;;8,200579;53,151418
+315; 02.09.2021; 07:35; Do;5;; Oldenburg (Oldb); Staulinie;0;0;1;2;5;3;;;;;;3;2;244;34;;10;;;21;71;2021;9;2; he; tr; PKW; RF; AB; aufsteigend;8,215123;53,141809
+316; 02.09.2021; 07:40; Do;5;; Oldenburg (Oldb); Auguststraﬂe;0;0;1;2;2;;;;;;;3;6;611;49;;;;;71;21;2021;9;2; he; tr; RF; PKW; LV; absteigend;8,20392;53,146048
+317; 02.09.2021; 17:30; Do;5;; Oldenburg (Oldb); Karlstraﬂe;0;0;1;2;5;3;;0;9;;;3;3;323;37;;10;;;21;71;2021;9;2; he; tr; PKW; RF; EK;;8,22272;53,145796
+318; 03.09.2021; 11:06; Fr;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;3;;0;9;;;3;2;243;34;;;;;21;71;2021;9;3; he; tr; PKW; RF; AB; absteigend;8,218268;53,153032
+319; 03.09.2021; 13:05; Fr;5;; Oldenburg (Oldb); Scheideweg;0;0;0;2;5;;;;;;;5;2;243;34;;;;;21;71;2021;9;3; he; tr; PKW; RF; AB;;8,211821;53,169915
+320; 03.09.2021; 17:45; Fr;5;; Oldenburg (Oldb); Heiligengeiststraﬂe;0;0;1;2;5;1;;9;;;8;3;3;344;31;;;;;21;71;2021;9;3; he; tr; PKW; RF; EK; aufsteigend;8,214617;53,146611
+321; 04.09.2021; 20:00; Sa;5;; Oldenburg (Oldb); Mansholter Straﬂe;0;0;0;2;1;;;;;;;5;5;501;49;;;;;71;21;2021;9;4; he; tr; RF; PKW; RV;;8,182822;53,185656
+322; 05.09.2021; 14:47; So;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;0;2;2;;;;;;;5;6;621;49;;;;;71;21;2021;9;5; he; tr; RF; PKW; LV;;8,222343;53,131553
+323; 05.09.2021; 16:21; So;5;; Oldenburg (Oldb); Stau;0;0;1;2;5;2;;9;;;;3;2;223;35;;10;;;21;71;2021;9;5; he; tr; PKW; RF; AB;;8,225699;53,141314
+324; 06.09.2021; 10:00; Mo;5;; Oldenburg (Oldb); Theaterwall;0;0;1;2;5;2;;0;9;;8;3;2;243;34;;;;;41;71;2021;9;6; he; tr; LKW; RF; AB; absteigend;8,208542;53,141132
+325; 06.09.2021; 11:52; Mo;5;; Oldenburg (Oldb); Kirchhofstraﬂe;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;21;72;2021;9;6; he; tr; PKW; RF; EK;;8,212883;53,150969
+326; 07.09.2021; 07:10; Di;5;; Oldenburg (Oldb); Straﬂburger Straﬂe;0;0;1;2;5;2;;9;;;;3;2;244;34;;10;;;21;71;2021;9;7; he; tr; PKW; RF; AB; absteigend;8,225711;53,146006
+327; 07.09.2021; 12:43; Di;3;865; Oldenburg (Oldb); Ofener Straﬂe;0;0;0;2;5;1;;;;;8;5;2;243;34;;;;;21;71;2021;9;7; he; tr; PKW; RF; AB;;8,193054;53,143526
+328; 08.09.2021; 10:40; Mi;5;; Oldenburg (Oldb); Heiligengeiststraﬂe;0;0;1;2;5;;;;;;8;3;2;211;35;;;;;71;72;2021;9;8; he; tr; RF; RF; AB; absteigend;8,213036;53,144309
+329; 08.09.2021; 16:06; Mi;5;; Oldenburg (Oldb); Achtersteven;0;0;1;2;5;2;;7;;;;3;3;321;27;;;;;71;21;2021;9;8; he; tr; RF; PKW; EK;;8,227511;53,140682
+330; 09.09.2021; 07:40; Do;5;; Oldenburg (Oldb); Bl¸cherstraﬂe;0;0;0;2;5;3;;;;;;5;3;302;37;;;;;21;71;2021;9;9; d‰; tr; PKW; RF; EK; aufsteigend;8,186006;53,139326
+331; 09.09.2021; 07:50; Do;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;1;2;5;2;;9;;;8;3;2;243;35;;;;;21;72;2021;9;9; d‰; tr; PKW; RF; AB; aufsteigend;8,205846;53,104425
+332; 09.09.2021; 08:30; Do;5;; Oldenburg (Oldb); Wienstraﬂe;0;0;1;2;1;;;;;;;3;5;581;45;;;;;21;71;2021;9;9; he; tr; PKW; RF; RV;;8,193084;53,135951
+333; 09.09.2021; 14:20; Do;5;; Oldenburg (Oldb); Lindenallee;0;0;1;2;5;1;;;;;;3;3;301;28;;;;;21;71;2021;9;9; he; tr; PKW; RF; EK;;8,205787;53,141154
+334; 09.09.2021; 17:30; Do;5;; Oldenburg (Oldb); Uhlhornsweg;0;1;0;2;5;;;3;;;;2;3;372;10;;49;;;71;21;2021;9;9; he; tr; RF; PKW; EK; aufsteigend;8,180222;53,147052
+335; 10.09.2021; 07:50; Fr;5;; Oldenburg (Oldb); Theodor-Heuss-Straﬂe;0;0;1;2;5;3;;;;;;3;3;302;37;;;;73;21;71;2021;9;10; d‰; na; PKW; RF; EK; absteigend;8,171655;53,141036
+336; 10.09.2021; 10:35; Fr;5;; Oldenburg (Oldb); B¸rgerfelder Straﬂe;0;0;1;2;0;1;;0;9;;;3;1;199;49;;10;;;21;71;2021;9;10; he; na; PKW; RF; F;;8,203664;53,163597
+337; 10.09.2021; 17:15; Fr;5;; Oldenburg (Oldb); Stau;0;0;1;2;5;2;;0;9;;8;3;2;244;34;;;;;21;71;2021;9;10; he; na; PKW; RF; AB;;8,223927;53,141598
+338; 11.09.2021; 17:29; Sa;5;; Oldenburg (Oldb); B¸rgerstraﬂe;0;1;0;2;1;;;;;;;2;5;501;49;;;;;71;21;2021;9;11; he; tr; RF; PKW; RV;;8,228488;53,153773
+339; 14.09.2021; 16:20; Di;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;0;2;5;3;;;;;;5;2;202;35;;49;;;21;71;2021;9;14; he; tr; PKW; RF; AB; aufsteigend;8,218595;53,123194
+340; 14.09.2021; 16:40; Di;5;; Oldenburg (Oldb); Nadorster Straﬂe;0;0;1;2;5;2;;9;;;;3;3;341;28;;;;;21;71;2021;9;14; he; tr; PKW; RF; EK; aufsteigend;8,225535;53,163911
+341; 15.09.2021; 07:40; Mi;5;; Oldenburg (Oldb); Groﬂer Kuhlenweg;0;0;1;2;5;1;;;;;9;3;3;301;28;;;;;42;71;2021;9;15; he; na; LKW; RF; EK; aufsteigend;8,240943;53,160956
+342; 15.09.2021; 14:21; Mi;5;; Oldenburg (Oldb); Bremer Straﬂe;0;0;1;2;4;;;9;;;;3;6;681;11;;;;;5;71;2021;9;15; he; na; KRD; RF; LV; aufsteigend;8,225776;53,12978
+343; 15.09.2021; 14:45; Mi;5;; Oldenburg (Oldb); Am Ende;0;0;1;2;5;2;;;;;;3;3;342;28;;;;;21;72;2021;9;15; he; na; PKW; RF; EK; absteigend;8,227093;53,199055
+344; 16.09.2021; 14:30; Do;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;0;2;5;3;;;;;;5;3;341;37;;;;;21;71;2021;9;16; he; tr; PKW; RF; EK;;8,217273;53,121635
+345; 16.09.2021; 14:55; Do;5;; Oldenburg (Oldb); Rummelweg;0;0;0;2;0;;;;;;;5;7;799;49;;;;;71;21;2021;9;16; he; tr; RF; PKW; SO;;8,196225;53,140659
+346; 17.09.2021; 13:00; Fr;5;; Oldenburg (Oldb); Antonstraﬂe;0;0;1;2;5;2;;;;;;3;7;799;49;;;;;71;71;2021;9;17; he; tr; RF; RF; SO; absteigend;8,194606;53,130374
+347; 17.09.2021; 17:30; Fr;5;; Oldenburg (Oldb); Triftweg;0;1;0;2;5;1;;;;;;2;3;321;27;;;;;71;40;2021;9;17; he; tr; RF; LKW; EK; absteigend;8,234446;53,174232
+348; 18.09.2021; 11:45; Sa;5;; Oldenburg (Oldb); Posthalterweg;0;0;1;2;5;6;;;;;;3;3;371;37;;;;;71;21;2021;9;18; he; tr; RF; PKW; EK; aufsteigend;8,170001;53,161539
+349; 20.09.2021; 15:40; Mo;5;; Oldenburg (Oldb); Ammergaustraﬂe;0;0;1;2;5;1;;;;;8;3;2;211;35;;;;;71;21;2021;9;20; he; tr; RF; PKW; AB; aufsteigend;8,23137;53,161754
+350; 20.09.2021; 15:42; Mo;5;; Oldenburg (Oldb); Moslestraﬂe;0;0;1;2;5;1;;9;;;8;3;2;243;34;;;;;33;71;2021;9;20; he; tr; BUS; RF; AB; absteigend;8,214657;53,143504
+351; 21.09.2021; 15:50; Di;4;348; Oldenburg (Oldb); Ammerl‰nder Heerstraﬂe;0;0;1;2;5;1;;0;9;;8;3;2;243;34;;49;;;92;71;2021;9;21; he; tr; SOF; RF; AB; aufsteigend;8,167077;53,160652
+352; 21.09.2021; 16:15; Di;5;; Oldenburg (Oldb); Haarenufer;0;0;1;2;5;;;;;;;3;2;202;35;;;;;71;72;2021;9;21; he; tr; RF; RF; AB;;8,205808;53,141126
+353; 22.09.2021; 10:00; Mi;5;; Oldenburg (Oldb); Bloherfelder Straﬂe;0;0;1;2;6;;;;;;;3;6;673;67;;;;;84;71;2021;9;22; he; tr; FG; RF; LV;;8,167845;53,14142
+354; 22.09.2021; 10:30; Mi;3;865; Oldenburg (Oldb); Am Stadtmuseum;0;0;1;2;5;1;;0;9;;8;3;2;243;34;;;;;21;72;2021;9;22; he; tr; PKW; RF; AB; aufsteigend;8,214287;53,143411
+355; 23.09.2021; 07:44; Do;5;; Oldenburg (Oldb); Auguststraﬂe;0;0;1;2;6;;;5;9;;;3;4;401;64;;;;;81;71;2021;9;23; he; tr; FG; RF; ‹S;;8,203634;53,142082
+356; 24.09.2021; 16:30; Fr;5;; Oldenburg (Oldb); Hochhauser Straﬂe;0;0;0;2;1;;;;;;;5;5;502;49;;;;;71;21;2021;9;24; he; tr; RF; PKW; RV;;8,206982;53,148793
+357; 24.09.2021; 18:00; Fr;5;; Oldenburg (Oldb); Katharinenstraﬂe;0;0;1;1;0;;;;;;;3;7;799;49;;;;;71;;2021;9;24; he; tr; RF; -; SO;;8,20573;53,143786
+358; 24.09.2021; 18:45; Fr;5;; Oldenburg (Oldb); Straﬂburger Straﬂe;0;0;1;2;4;;;0;9;;;3;6;681;10;;;;;5;72;2021;9;24; he; tr; KRD; RF; LV; aufsteigend;8,225993;53,147126
+359; 25.09.2021; 16:15; Sa;5;; Oldenburg (Oldb); Leuchtenburger Straﬂe;0;0;1;2;5;2;;;;;;3;3;321;27;;;;;71;21;2021;9;25; he; tr; RF; PKW; EK; aufsteigend;8,189499;53,188291
+360; 25.09.2021; 17:55; Sa;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;2;;9;;;;3;3;342;28;;;;;21;72;2021;9;25; he; na; PKW; RF; EK; absteigend;8,206785;53,16149
+361; 26.09.2021; 04:35; So;5;; Oldenburg (Oldb); Amalienstraﬂe;0;1;0;1;0;2;;;;;;2;7;799;1;;;;;71;;2021;9;26; du; na; RF; -; SO; absteigend;8,223205;53,138856
+362; 27.09.2021; 09:30; Mo;5;; Oldenburg (Oldb); Marschweg;0;0;1;2;5;2;;0;9;;;3;3;341;28;;;;;40;71;2021;9;27; he; tr; LKW; RF; EK;;8,20479;53,128636
+363; 28.09.2021; 11:55; Di;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;1;3;5;;;;;;;3;2;299;35;;49;;;71;71;2021;9;28; he; tr; RF; RF; AB;;8,214727;53,146675
+364; 28.09.2021; 22:00; Di;5;; Oldenburg (Oldb); Rennplatzstraﬂe;0;0;0;2;1;3;;;;;;5;7;703;49;;;;;71;21;2021;9;28; du; tr; RF; PKW; SO;;8,247541;53,167769
+365; 29.09.2021; 13:40; Mi;5;; Oldenburg (Oldb); Sch¸tzenweg;0;0;0;2;7;2;;;;;;5;7;731;48;;;;;71;21;2021;9;29; he; na; RF; PKW; SO;;8,187659;53,147225
+366; 30.09.2021; 12:30; Do;5;; Oldenburg (Oldb); Bahnhofsallee;0;0;1;2;4;;;9;;;;3;6;682;13;;;;;72;72;2021;9;30; he; tr; RF; RF; LV; aufsteigend;8,236168;53,124767
+367; 30.09.2021; 13:10; Do;5;; Oldenburg (Oldb); Katharinenstraﬂe;0;0;1;2;6;;;;;;;3;4;422;64;;;;;81;71;2021;9;30; he; tr; FG; RF; ‹S;;8,208419;53,143398
+368; 30.09.2021; 15:20; Do;5;; Oldenburg (Oldb); Staugraben;0;0;1;2;5;2;;0;9;;;3;2;243;34;;;;;40;72;2021;9;30; he; tr; LKW; RF; AB;;8,215239;53,142605
+369; 02.10.2021; 15:40; Sa;5;; Oldenburg (Oldb); Gerhard-Stalling-Straﬂe;0;0;0;2;1;;;;;;;5;7;703;49;;;;;71;21;2021;10;2; he; tr; RF; PKW; SO;;8,25272;53,114193
+370; 04.10.2021; 12:50; Mo;5;; Oldenburg (Oldb); Katharinenstraﬂe;0;1;0;2;5;1;;;;;;2;7;711;36;;;;;21;71;2021;10;4; he; tr; PKW; RF; SO;;8,205264;53,143959
+371; 04.10.2021; 16:25; Mo;5;; Oldenburg (Oldb); Schleusenstraﬂe;0;0;1;2;5;;;;;;;3;3;321;27;;;;;72;21;2021;10;4; he; tr; RF; PKW; EK; absteigend;8,21518;53,132285
+372; 05.10.2021; 14:25; Di;5;; Oldenburg (Oldb); Marschweg;0;0;1;2;7;;;9;;;;3;7;732;49;;;;;71;59;2021;10;5; he; tr; RF; SOF; SO;;8,204419;53,131351
+373; 06.10.2021; 21:14; Mi;3;870; Oldenburg (Oldb); Cloppenburger Straﬂe;0;0;1;2;5;3;;9;;;;3;3;342;37;;10;;;21;71;2021;10;6; du; na; PKW; RF; EK; absteigend;8,215318;53,118367
+374; 07.10.2021; 10:45; Do;5;; Oldenburg (Oldb); Alter Postweg;0;0;0;2;1;;;;;;;5;7;703;49;;;;;21;71;2021;10;7; he; tr; PKW; RF; SO;;8,211395;53,102743
+375; 07.10.2021; 11:40; Do;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;1;2;5;3;;9;;;;3;2;244;34;;10;;;21;71;2021;10;7; he; tr; PKW; RF; AB; aufsteigend;8,234444;53,150291
+376; 07.10.2021; 12:50; Do;5;; Oldenburg (Oldb); Hauptstraﬂe;0;0;1;2;3;;;9;;;;3;6;651;22;;;;;71;72;2021;10;7; he; tr; RF; RF; LV; aufsteigend;8,200897;53,133753
+377; 08.10.2021; 08:45; Fr;5;; Oldenburg (Oldb); Nordstraﬂe;0;0;0;2;5;2;;0;9;;;5;2;243;34;;;;;21;71;2021;10;8; he; tr; PKW; RF; AB;;8,22696;53,13683
+378; 08.10.2021; 12:30; Fr;5;; Oldenburg (Oldb); Moslestraﬂe;0;0;0;2;5;3;;0;9;;;5;3;342;37;;;;;21;71;2021;10;8; he; tr; PKW; RF; EK;;8,219002;53,143925
+379; 12.10.2021; 13:15; Di;3;865; Oldenburg (Oldb); Donnerschweer Straﬂe;0;0;0;2;5;2;;;;;;5;3;321;28;;;;;71;21;2021;10;12; he; na; RF; PKW; EK;;8,221989;53,14746
+380; 12.10.2021; 13:20; Di;5;; Oldenburg (Oldb); Hauptstraﬂe;0;0;1;2;4;;;9;;;8;3;6;681;10;;;;;71;71;2021;10;12; he; na; RF; RF; LV; aufsteigend;8,193364;53,133083
+381; 12.10.2021; 19:40; Di;5;; Oldenburg (Oldb); Stau;0;1;0;2;5;2;;0;9;;;2;3;341;31;;;;;21;71;2021;10;12; du; na; PKW; RF; EK;;8,218998;53,140371
+382; 13.10.2021; 17:10; Mi;5;; Oldenburg (Oldb); Apenrader Straﬂe;0;0;1;2;1;;;;;;;3;5;581;45;;;;;21;71;2021;10;13; he; tr; PKW; RF; RV;;8,197647;53,166615
+383; 14.10.2021; 10:00; Do;5;; Oldenburg (Oldb); Bahnhofsallee;0;0;1;2;5;3;;9;;;;3;3;342;37;;;;;71;71;2021;10;14; he; tr; RF; RF; EK;;8,237293;53,117579
+384; 14.10.2021; 14:30; Do;5;; Oldenburg (Oldb); Scheideweg;0;0;0;2;1;3;;;;;;5;7;703;49;;;;;21;71;2021;10;14; he; tr; PKW; RF; SO;;8,213922;53,16843
+385; 15.10.2021; 13:20; Fr;3;866; Oldenburg (Oldb); Stedinger Straﬂe;0;0;1;2;5;2;;0;9;;;3;2;243;34;;;;;21;72;2021;10;15; he; tr; PKW; RF; AB;;8,226118;53,134438
+386; 16.10.2021; 15:20; Sa;5;; Oldenburg (Oldb); Rauhehorst;0;0;1;2;5;2;;9;;;;3;3;342;28;;10;;;21;71;2021;10;16; he; tr; PKW; RF; EK;;8,18905;53,164801
+387; 18.10.2021; 05:45; Mo;5;; Oldenburg (Oldb); Alexanderstraﬂe;0;0;1;2;5;1;;9;;;;3;3;342;28;;10;;;21;71;2021;10;18; du; tr; PKW; RF; EK; aufsteigend;8,209208;53,156969
+388; 20.10.2021; 14:20; Mi;5;; Oldenburg (Oldb); Ammerl‰nder Heerstraﬂe;0;0;0;2;5;;;;;;;5;3;342;28;;;;;21;71;2021;10;20; he; na; PKW; RF; EK;;8,187762;53,145773
+389; 28.10.2021; 16:30; Do;5;; Oldenburg (Oldb); Hausb‰ker Weg;0;0;1;1;0;2;;;;;;3;7;799;49;;;;;71;;2021;10;28; he; tr; RF; -; SO; aufsteigend;8,185374;53,12786
