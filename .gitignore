@@ -149,4 +149,4 @@ cython_debug/
 
 utilities/default_params.py
 notebooks/queries_kpis/settings.py
-
+notebooks/utilities/try_here.ipynb
