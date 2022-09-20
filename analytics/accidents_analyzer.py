@@ -28,22 +28,6 @@ def accidents_reader(filenames):
         return ACCIDENTS_DATA_PATH
 
 
-# def get_the_street():
-#     """
-#      Fn to obtain the desired street as dataframe, in our case streets where the experiments are conducted example
-#      Rytle/CSL etc.,
-#     Args:
-#         street_name:
-#         accidents_df:
-#
-#     Returns:
-#
-#     """
-#     accidents_df = pd.read_table(ACCIDENTS_DATA_PATH)
-#     # here as an example street near to rytle is taken
-#     #street_name = "Konsul-Smidt-Straße"
-#     desired_street = accidents_df.groupby(by = "Strasse").get_group(street_name)
-#     return desired_street
 
 
 def create_accidents_marker(street_name: pd.DataFrame):
